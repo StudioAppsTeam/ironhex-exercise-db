@@ -1,5 +1,5 @@
 {
-  "version": 1775737178,
+  "version": 1775747618,
   "exercises": [
     {
       "name": "3/4 Sit-Up",
@@ -922,6 +922,32 @@
         "Band_Assisted_Pull-Up/1.jpg"
       ],
       "id": "Band_Assisted_Pull-Up"
+    },
+    {
+      "name": "Band External Rotation at 90 Degrees Abduction",
+      "force": "pull",
+      "level": "beginner",
+      "mechanic": "isolation",
+      "equipment": "bands",
+      "primaryMuscles": [
+        "shoulders"
+      ],
+      "secondaryMuscles": [
+        "traps"
+      ],
+      "instructions": [
+        "Attach a resistance band to a fixed point at shoulder height. Stand sideways to the anchor point and hold the band with the hand furthest from it.",
+        "Raise your arm out to the side to 90 degrees of abduction, then bend your elbow to 90 degrees so your forearm points forward, parallel to the ground.",
+        "Keeping your upper arm stationary and parallel to the floor, rotate your forearm upward until it points toward the ceiling.",
+        "Pause at the top, then slowly return to the starting position under control.",
+        "Complete all reps on one side before switching."
+      ],
+      "category": "strength",
+      "images": [
+        "Band_External_Rotation_90_Abduction/0.jpg",
+        "Band_External_Rotation_90_Abduction/1.jpg"
+      ],
+      "id": "Band_External_Rotation_90_Abduction"
     },
     {
       "name": "Band Good Morning",
