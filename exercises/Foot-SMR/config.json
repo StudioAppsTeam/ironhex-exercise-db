@@ -1,0 +1,12 @@
+{
+  "id": "Foot-SMR",
+  "force": "static",
+  "level": "intermediate",
+  "mechanic": null,
+  "equipment": "other",
+  "primaryMuscles": [
+    "calves"
+  ],
+  "secondaryMuscles": [],
+  "category": "stretching"
+}

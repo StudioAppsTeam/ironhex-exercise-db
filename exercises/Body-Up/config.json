@@ -1,0 +1,15 @@
+{
+  "id": "Body-Up",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "isolation",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "triceps"
+  ],
+  "secondaryMuscles": [
+    "abdominals",
+    "forearms"
+  ],
+  "category": "strength"
+}

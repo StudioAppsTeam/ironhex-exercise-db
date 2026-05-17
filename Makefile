@@ -1,4 +1,4 @@
-.PHONY: lint check_dupes install
+.PHONY: lint check_dupes install locale-build
 
 sources :=$(wildcard ./exercises/**.json)
 
@@ -28,3 +28,11 @@ dist/exercises.csv: dist/exercises.json
 	# requires in2csv which is part of
 	# https://csvkit.readthedocs.io/
 	in2csv ./dist/exercises.json > $@
+
+dist/exercises-en.json:
+	node scripts/build-locale.js en
+
+dist/exercises-es.json:
+	node scripts/build-locale.js es
+
+locale-build: dist/exercises-en.json dist/exercises-es.json

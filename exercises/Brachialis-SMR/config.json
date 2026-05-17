@@ -1,0 +1,12 @@
+{
+  "id": "Brachialis-SMR",
+  "force": "static",
+  "level": "intermediate",
+  "mechanic": null,
+  "equipment": "foam roll",
+  "primaryMuscles": [
+    "biceps"
+  ],
+  "secondaryMuscles": [],
+  "category": "stretching"
+}

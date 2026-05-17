@@ -1,0 +1,12 @@
+{
+  "id": "Dynamic_Back_Stretch",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": null,
+  "equipment": null,
+  "primaryMuscles": [
+    "lats"
+  ],
+  "secondaryMuscles": [],
+  "category": "stretching"
+}

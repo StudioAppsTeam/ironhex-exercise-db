@@ -1,0 +1,12 @@
+{
+  "id": "Standing_Leg_Curl",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "machine",
+  "primaryMuscles": [
+    "hamstrings"
+  ],
+  "secondaryMuscles": [],
+  "category": "strength"
+}

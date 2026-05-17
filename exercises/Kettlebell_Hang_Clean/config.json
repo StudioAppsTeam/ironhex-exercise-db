@@ -1,0 +1,18 @@
+{
+  "id": "Kettlebell_Hang_Clean",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "kettlebells",
+  "primaryMuscles": [
+    "hamstrings"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "glutes",
+    "lower back",
+    "shoulders",
+    "traps"
+  ],
+  "category": "strength"
+}

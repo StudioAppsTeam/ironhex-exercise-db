@@ -1,0 +1,14 @@
+{
+  "id": "Cable_Shoulder_Press",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "cable",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "triceps"
+  ],
+  "category": "strength"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Kettlebell_Sumo_High_Pull",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "kettlebells",
+  "primaryMuscles": [
+    "traps"
+  ],
+  "secondaryMuscles": [
+    "adductors",
+    "glutes",
+    "hamstrings",
+    "quadriceps",
+    "shoulders"
+  ],
+  "category": "strength"
+}

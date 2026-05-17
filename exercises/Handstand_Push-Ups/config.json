@@ -1,0 +1,14 @@
+{
+  "id": "Handstand_Push-Ups",
+  "force": "push",
+  "level": "expert",
+  "mechanic": "compound",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "triceps"
+  ],
+  "category": "strength"
+}

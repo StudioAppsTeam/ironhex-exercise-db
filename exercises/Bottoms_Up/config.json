@@ -1,0 +1,12 @@
+{
+  "id": "Bottoms_Up",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [],
+  "category": "strength"
+}

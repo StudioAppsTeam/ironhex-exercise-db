@@ -1,0 +1,16 @@
+{
+  "id": "One_Half_Locust",
+  "force": "static",
+  "level": "beginner",
+  "mechanic": null,
+  "equipment": null,
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "abdominals",
+    "biceps",
+    "chest"
+  ],
+  "category": "stretching"
+}

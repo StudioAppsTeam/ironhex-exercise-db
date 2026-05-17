@@ -1,0 +1,15 @@
+{
+  "id": "Barbell_Ab_Rollout_-_On_Knees",
+  "force": "pull",
+  "level": "expert",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [
+    "lower back",
+    "shoulders"
+  ],
+  "category": "strength"
+}

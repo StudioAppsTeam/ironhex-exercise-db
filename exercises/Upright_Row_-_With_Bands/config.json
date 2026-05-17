@@ -1,0 +1,14 @@
+{
+  "id": "Upright_Row_-_With_Bands",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "bands",
+  "primaryMuscles": [
+    "traps"
+  ],
+  "secondaryMuscles": [
+    "shoulders"
+  ],
+  "category": "strength"
+}

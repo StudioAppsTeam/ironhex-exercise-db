@@ -1,0 +1,12 @@
+{
+  "id": "Quadriceps-SMR",
+  "force": "static",
+  "level": "intermediate",
+  "mechanic": "isolation",
+  "equipment": "foam roll",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [],
+  "category": "stretching"
+}

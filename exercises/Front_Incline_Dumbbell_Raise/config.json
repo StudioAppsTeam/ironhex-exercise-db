@@ -1,0 +1,12 @@
+{
+  "id": "Front_Incline_Dumbbell_Raise",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "dumbbell",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [],
+  "category": "strength"
+}

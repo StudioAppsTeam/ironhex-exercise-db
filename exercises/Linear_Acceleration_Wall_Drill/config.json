@@ -1,0 +1,16 @@
+{
+  "id": "Linear_Acceleration_Wall_Drill",
+  "force": null,
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": null,
+  "primaryMuscles": [
+    "hamstrings"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "glutes",
+    "quadriceps"
+  ],
+  "category": "plyometrics"
+}

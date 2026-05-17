@@ -1,0 +1,12 @@
+{
+  "id": "Lying_Cable_Curl",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "isolation",
+  "equipment": "cable",
+  "primaryMuscles": [
+    "biceps"
+  ],
+  "secondaryMuscles": [],
+  "category": "strength"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "Incline_Inner_Biceps_Curl",
+  "force": null,
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "dumbbell",
+  "primaryMuscles": [
+    "biceps"
+  ],
+  "secondaryMuscles": [],
+  "category": "strength"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "Upward_Stretch",
+  "force": "static",
+  "level": "beginner",
+  "mechanic": null,
+  "equipment": null,
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "chest",
+    "lats"
+  ],
+  "category": "stretching"
+}

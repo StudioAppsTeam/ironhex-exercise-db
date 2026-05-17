@@ -1,0 +1,17 @@
+{
+  "id": "Side_To_Side_Chins",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "other",
+  "primaryMuscles": [
+    "lats"
+  ],
+  "secondaryMuscles": [
+    "biceps",
+    "forearms",
+    "middle back",
+    "shoulders"
+  ],
+  "category": "strength"
+}

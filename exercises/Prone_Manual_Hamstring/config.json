@@ -1,0 +1,12 @@
+{
+  "id": "Prone_Manual_Hamstring",
+  "force": "static",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": null,
+  "primaryMuscles": [
+    "hamstrings"
+  ],
+  "secondaryMuscles": [],
+  "category": "strength"
+}

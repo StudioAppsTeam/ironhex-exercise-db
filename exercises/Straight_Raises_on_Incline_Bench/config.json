@@ -1,0 +1,14 @@
+{
+  "id": "Straight_Raises_on_Incline_Bench",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "traps"
+  ],
+  "category": "strength"
+}

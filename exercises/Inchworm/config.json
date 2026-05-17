@@ -1,0 +1,12 @@
+{
+  "id": "Inchworm",
+  "force": null,
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "hamstrings"
+  ],
+  "secondaryMuscles": [],
+  "category": "stretching"
+}

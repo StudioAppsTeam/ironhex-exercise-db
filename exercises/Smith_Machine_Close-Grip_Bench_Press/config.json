@@ -1,0 +1,15 @@
+{
+  "id": "Smith_Machine_Close-Grip_Bench_Press",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "machine",
+  "primaryMuscles": [
+    "triceps"
+  ],
+  "secondaryMuscles": [
+    "chest",
+    "shoulders"
+  ],
+  "category": "strength"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "Shoulder_Stretch",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": null,
+  "equipment": null,
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [],
+  "category": "stretching"
+}

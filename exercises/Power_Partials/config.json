@@ -1,0 +1,12 @@
+{
+  "id": "Power_Partials",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "dumbbell",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [],
+  "category": "strength"
+}

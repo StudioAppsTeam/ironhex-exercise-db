@@ -1,0 +1,12 @@
+{
+  "id": "Iron_Crosses_stretch",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": null,
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [],
+  "category": "stretching"
+}

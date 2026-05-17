@@ -1,0 +1,12 @@
+{
+  "id": "Rope_Straight-Arm_Pulldown",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "cable",
+  "primaryMuscles": [
+    "lats"
+  ],
+  "secondaryMuscles": [],
+  "category": "strength"
+}

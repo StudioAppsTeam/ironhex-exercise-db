@@ -1,0 +1,16 @@
+{
+  "id": "Catch_and_Overhead_Throw",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "medicine ball",
+  "primaryMuscles": [
+    "lats"
+  ],
+  "secondaryMuscles": [
+    "abdominals",
+    "chest",
+    "shoulders"
+  ],
+  "category": "plyometrics"
+}

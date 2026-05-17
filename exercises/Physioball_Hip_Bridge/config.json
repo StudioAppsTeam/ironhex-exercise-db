@@ -1,0 +1,14 @@
+{
+  "id": "Physioball_Hip_Bridge",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "exercise ball",
+  "primaryMuscles": [
+    "glutes"
+  ],
+  "secondaryMuscles": [
+    "hamstrings"
+  ],
+  "category": "strength"
+}

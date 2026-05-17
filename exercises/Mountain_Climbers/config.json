@@ -1,0 +1,16 @@
+{
+  "id": "Mountain_Climbers",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": null,
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "chest",
+    "hamstrings",
+    "shoulders"
+  ],
+  "category": "plyometrics"
+}

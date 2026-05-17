@@ -1,0 +1,14 @@
+{
+  "id": "Standing_Cable_Lift",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "cable",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [
+    "shoulders"
+  ],
+  "category": "strength"
+}

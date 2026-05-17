@@ -1,0 +1,17 @@
+{
+  "id": "Spinal_Stretch",
+  "force": "static",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": null,
+  "primaryMuscles": [
+    "middle back"
+  ],
+  "secondaryMuscles": [
+    "lats",
+    "lower back",
+    "neck",
+    "traps"
+  ],
+  "category": "stretching"
+}

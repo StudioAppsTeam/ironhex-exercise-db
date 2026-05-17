@@ -1,0 +1,14 @@
+{
+  "id": "Seated_Hamstring_and_Calf_Stretch",
+  "force": "static",
+  "level": "intermediate",
+  "mechanic": null,
+  "equipment": "other",
+  "primaryMuscles": [
+    "hamstrings"
+  ],
+  "secondaryMuscles": [
+    "calves"
+  ],
+  "category": "stretching"
+}

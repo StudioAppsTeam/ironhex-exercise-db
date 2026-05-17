@@ -1,0 +1,12 @@
+{
+  "id": "Scissor_Kick",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [],
+  "category": "stretching"
+}

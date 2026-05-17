@@ -1,0 +1,15 @@
+{
+  "id": "Medicine_Ball_Chest_Pass",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "medicine ball",
+  "primaryMuscles": [
+    "chest"
+  ],
+  "secondaryMuscles": [
+    "shoulders",
+    "triceps"
+  ],
+  "category": "plyometrics"
+}

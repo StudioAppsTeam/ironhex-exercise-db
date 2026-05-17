@@ -1,0 +1,12 @@
+{
+  "id": "Sled_Reverse_Flye",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "other",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [],
+  "category": "strength"
+}

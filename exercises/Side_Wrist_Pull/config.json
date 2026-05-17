@@ -1,0 +1,15 @@
+{
+  "id": "Side_Wrist_Pull",
+  "force": "static",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": null,
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "forearms",
+    "lats"
+  ],
+  "category": "stretching"
+}

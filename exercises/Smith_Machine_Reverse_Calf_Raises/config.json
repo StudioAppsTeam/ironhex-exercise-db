@@ -1,0 +1,12 @@
+{
+  "id": "Smith_Machine_Reverse_Calf_Raises",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "machine",
+  "primaryMuscles": [
+    "calves"
+  ],
+  "secondaryMuscles": [],
+  "category": "strength"
+}

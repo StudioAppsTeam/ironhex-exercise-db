@@ -1,0 +1,12 @@
+{
+  "id": "Lower_Back-SMR",
+  "force": "static",
+  "level": "beginner",
+  "mechanic": null,
+  "equipment": "foam roll",
+  "primaryMuscles": [
+    "lower back"
+  ],
+  "secondaryMuscles": [],
+  "category": "stretching"
+}

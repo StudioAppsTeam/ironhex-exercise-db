@@ -1,0 +1,12 @@
+{
+  "id": "Decline_EZ_Bar_Triceps_Extension",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "triceps"
+  ],
+  "secondaryMuscles": [],
+  "category": "strength"
+}

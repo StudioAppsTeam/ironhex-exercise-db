@@ -1,0 +1,15 @@
+{
+  "id": "Elevated_Cable_Rows",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "cable",
+  "primaryMuscles": [
+    "lats"
+  ],
+  "secondaryMuscles": [
+    "middle back",
+    "traps"
+  ],
+  "category": "strength"
+}

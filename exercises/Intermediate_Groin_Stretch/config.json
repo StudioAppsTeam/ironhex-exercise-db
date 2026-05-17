@@ -1,0 +1,12 @@
+{
+  "id": "Intermediate_Groin_Stretch",
+  "force": "static",
+  "level": "intermediate",
+  "mechanic": "isolation",
+  "equipment": "other",
+  "primaryMuscles": [
+    "hamstrings"
+  ],
+  "secondaryMuscles": [],
+  "category": "stretching"
+}

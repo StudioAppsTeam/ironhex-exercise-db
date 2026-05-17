@@ -1,0 +1,12 @@
+{
+  "id": "One-Arm_Side_Laterals",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "dumbbell",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [],
+  "category": "strength"
+}

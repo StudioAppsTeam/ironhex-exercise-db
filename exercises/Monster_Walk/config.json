@@ -1,0 +1,12 @@
+{
+  "id": "Monster_Walk",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "bands",
+  "primaryMuscles": [
+    "abductors"
+  ],
+  "secondaryMuscles": [],
+  "category": "strength"
+}

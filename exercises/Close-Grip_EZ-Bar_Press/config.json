@@ -1,0 +1,15 @@
+{
+  "id": "Close-Grip_EZ-Bar_Press",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "e-z curl bar",
+  "primaryMuscles": [
+    "triceps"
+  ],
+  "secondaryMuscles": [
+    "chest",
+    "shoulders"
+  ],
+  "category": "strength"
+}

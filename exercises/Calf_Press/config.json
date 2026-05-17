@@ -1,0 +1,12 @@
+{
+  "id": "Calf_Press",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "machine",
+  "primaryMuscles": [
+    "calves"
+  ],
+  "secondaryMuscles": [],
+  "category": "strength"
+}

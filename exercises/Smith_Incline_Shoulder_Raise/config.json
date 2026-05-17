@@ -1,0 +1,14 @@
+{
+  "id": "Smith_Incline_Shoulder_Raise",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "chest"
+  ],
+  "category": "strength"
+}

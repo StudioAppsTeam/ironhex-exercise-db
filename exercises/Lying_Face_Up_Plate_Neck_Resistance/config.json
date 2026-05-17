@@ -1,0 +1,12 @@
+{
+  "id": "Lying_Face_Up_Plate_Neck_Resistance",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "isolation",
+  "equipment": "other",
+  "primaryMuscles": [
+    "neck"
+  ],
+  "secondaryMuscles": [],
+  "category": "strength"
+}

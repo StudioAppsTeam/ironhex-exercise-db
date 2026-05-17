@@ -1,0 +1,16 @@
+{
+  "id": "Split_Squats",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": null,
+  "equipment": null,
+  "primaryMuscles": [
+    "hamstrings"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "glutes",
+    "quadriceps"
+  ],
+  "category": "stretching"
+}

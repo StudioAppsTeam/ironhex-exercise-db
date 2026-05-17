@@ -1,0 +1,12 @@
+{
+  "id": "Band_Skull_Crusher",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "bands",
+  "primaryMuscles": [
+    "triceps"
+  ],
+  "secondaryMuscles": [],
+  "category": "strength"
+}

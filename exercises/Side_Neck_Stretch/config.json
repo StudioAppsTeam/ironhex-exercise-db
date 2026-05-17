@@ -1,0 +1,12 @@
+{
+  "id": "Side_Neck_Stretch",
+  "force": "static",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": null,
+  "primaryMuscles": [
+    "neck"
+  ],
+  "secondaryMuscles": [],
+  "category": "stretching"
+}

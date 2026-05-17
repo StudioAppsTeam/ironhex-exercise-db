@@ -1,0 +1,12 @@
+{
+  "id": "Standing_Barbell_Calf_Raise",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "calves"
+  ],
+  "secondaryMuscles": [],
+  "category": "strength"
+}

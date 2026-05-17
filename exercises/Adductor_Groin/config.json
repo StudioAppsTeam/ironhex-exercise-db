@@ -1,0 +1,12 @@
+{
+  "id": "Adductor_Groin",
+  "force": "static",
+  "level": "intermediate",
+  "mechanic": null,
+  "equipment": null,
+  "primaryMuscles": [
+    "adductors"
+  ],
+  "secondaryMuscles": [],
+  "category": "stretching"
+}

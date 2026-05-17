@@ -1,0 +1,14 @@
+{
+  "id": "Medicine_Ball_Full_Twist",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "medicine ball",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [
+    "shoulders"
+  ],
+  "category": "plyometrics"
+}

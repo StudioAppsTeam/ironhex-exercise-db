@@ -1,0 +1,15 @@
+{
+  "id": "Barbell_Ab_Rollout",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [
+    "lower back",
+    "shoulders"
+  ],
+  "category": "strength"
+}

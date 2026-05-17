@@ -1,0 +1,15 @@
+{
+  "id": "Cat_Stretch",
+  "force": "static",
+  "level": "beginner",
+  "mechanic": null,
+  "equipment": null,
+  "primaryMuscles": [
+    "lower back"
+  ],
+  "secondaryMuscles": [
+    "middle back",
+    "traps"
+  ],
+  "category": "stretching"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "Kettlebell_Figure_8",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": null,
+  "equipment": "kettlebells",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [
+    "hamstrings",
+    "shoulders"
+  ],
+  "category": "strength"
+}

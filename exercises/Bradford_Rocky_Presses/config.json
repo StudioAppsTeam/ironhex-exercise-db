@@ -1,0 +1,14 @@
+{
+  "id": "Bradford_Rocky_Presses",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "triceps"
+  ],
+  "category": "strength"
+}

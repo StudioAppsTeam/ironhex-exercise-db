@@ -1,0 +1,12 @@
+{
+  "id": "IT_Band_and_Glute_Stretch",
+  "force": "static",
+  "level": "intermediate",
+  "mechanic": null,
+  "equipment": "other",
+  "primaryMuscles": [
+    "abductors"
+  ],
+  "secondaryMuscles": [],
+  "category": "stretching"
+}

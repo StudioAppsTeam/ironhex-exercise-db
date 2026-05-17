@@ -1,0 +1,12 @@
+{
+  "id": "Front_Leg_Raises",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": null,
+  "equipment": "body only",
+  "primaryMuscles": [
+    "hamstrings"
+  ],
+  "secondaryMuscles": [],
+  "category": "stretching"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "Standing_Olympic_Plate_Hand_Squeeze",
+  "force": "static",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "other",
+  "primaryMuscles": [
+    "forearms"
+  ],
+  "secondaryMuscles": [
+    "biceps"
+  ],
+  "category": "strength"
+}

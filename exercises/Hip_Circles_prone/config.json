@@ -1,0 +1,14 @@
+{
+  "id": "Hip_Circles_prone",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "abductors"
+  ],
+  "secondaryMuscles": [
+    "adductors"
+  ],
+  "category": "stretching"
+}

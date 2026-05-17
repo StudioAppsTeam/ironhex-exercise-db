@@ -1,0 +1,12 @@
+{
+  "id": "Smith_Machine_Hip_Raise",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "machine",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [],
+  "category": "strength"
+}

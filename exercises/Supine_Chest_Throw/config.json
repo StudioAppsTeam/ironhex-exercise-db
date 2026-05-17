@@ -1,0 +1,15 @@
+{
+  "id": "Supine_Chest_Throw",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "medicine ball",
+  "primaryMuscles": [
+    "triceps"
+  ],
+  "secondaryMuscles": [
+    "chest",
+    "shoulders"
+  ],
+  "category": "plyometrics"
+}

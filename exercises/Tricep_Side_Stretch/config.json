@@ -1,0 +1,14 @@
+{
+  "id": "Tricep_Side_Stretch",
+  "force": "static",
+  "level": "beginner",
+  "mechanic": null,
+  "equipment": null,
+  "primaryMuscles": [
+    "triceps"
+  ],
+  "secondaryMuscles": [
+    "shoulders"
+  ],
+  "category": "stretching"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "Thigh_Abductor",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "machine",
+  "primaryMuscles": [
+    "abductors"
+  ],
+  "secondaryMuscles": [
+    "glutes"
+  ],
+  "category": "strength"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Bent-Arm_Barbell_Pullover",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "lats"
+  ],
+  "secondaryMuscles": [
+    "chest",
+    "lats",
+    "shoulders",
+    "triceps"
+  ],
+  "category": "strength"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "Decline_Oblique_Crunch",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [],
+  "category": "strength"
+}

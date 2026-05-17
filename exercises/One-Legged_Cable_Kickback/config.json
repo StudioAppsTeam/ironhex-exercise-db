@@ -1,0 +1,14 @@
+{
+  "id": "One-Legged_Cable_Kickback",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "isolation",
+  "equipment": "cable",
+  "primaryMuscles": [
+    "glutes"
+  ],
+  "secondaryMuscles": [
+    "hamstrings"
+  ],
+  "category": "strength"
+}

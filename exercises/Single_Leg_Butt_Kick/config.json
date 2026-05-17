@@ -1,0 +1,15 @@
+{
+  "id": "Single_Leg_Butt_Kick",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "hamstrings"
+  ],
+  "category": "plyometrics"
+}

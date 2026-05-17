@@ -1,0 +1,12 @@
+{
+  "id": "Pelvic_Tilt_Into_Bridge",
+  "force": "static",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": null,
+  "primaryMuscles": [
+    "lower back"
+  ],
+  "secondaryMuscles": [],
+  "category": "stretching"
+}

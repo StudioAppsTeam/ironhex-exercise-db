@@ -1,0 +1,15 @@
+{
+  "id": "See-Saw_Press_Alternating_Side_Press",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "dumbbell",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "abdominals",
+    "triceps"
+  ],
+  "category": "strength"
+}

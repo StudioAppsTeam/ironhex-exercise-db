@@ -1,0 +1,16 @@
+{
+  "id": "Bicycling",
+  "force": null,
+  "level": "beginner",
+  "mechanic": null,
+  "equipment": "other",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "glutes",
+    "hamstrings"
+  ],
+  "category": "cardio"
+}

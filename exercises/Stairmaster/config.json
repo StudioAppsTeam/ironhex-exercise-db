@@ -1,0 +1,16 @@
+{
+  "id": "Stairmaster",
+  "force": null,
+  "level": "intermediate",
+  "mechanic": null,
+  "equipment": "machine",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "glutes",
+    "hamstrings"
+  ],
+  "category": "cardio"
+}

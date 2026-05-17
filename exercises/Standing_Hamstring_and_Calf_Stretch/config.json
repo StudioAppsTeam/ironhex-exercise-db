@@ -1,0 +1,12 @@
+{
+  "id": "Standing_Hamstring_and_Calf_Stretch",
+  "force": "static",
+  "level": "beginner",
+  "mechanic": null,
+  "equipment": "other",
+  "primaryMuscles": [
+    "hamstrings"
+  ],
+  "secondaryMuscles": [],
+  "category": "stretching"
+}

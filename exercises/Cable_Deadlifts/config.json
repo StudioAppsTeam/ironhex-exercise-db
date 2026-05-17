@@ -1,0 +1,17 @@
+{
+  "id": "Cable_Deadlifts",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "cable",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "forearms",
+    "glutes",
+    "hamstrings",
+    "lower back"
+  ],
+  "category": "strength"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "Single_Dumbbell_Raise",
+  "force": null,
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "dumbbell",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "forearms",
+    "traps"
+  ],
+  "category": "strength"
+}

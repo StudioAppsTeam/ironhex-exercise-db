@@ -1,0 +1,14 @@
+{
+  "id": "Shoulder_Press_-_With_Bands",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "bands",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "triceps"
+  ],
+  "category": "strength"
+}

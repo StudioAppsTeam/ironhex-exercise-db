@@ -1,0 +1,17 @@
+{
+  "id": "Dumbbell_Incline_Row",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "dumbbell",
+  "primaryMuscles": [
+    "middle back"
+  ],
+  "secondaryMuscles": [
+    "biceps",
+    "forearms",
+    "lats",
+    "shoulders"
+  ],
+  "category": "strength"
+}

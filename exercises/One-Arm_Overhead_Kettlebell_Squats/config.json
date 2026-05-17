@@ -1,0 +1,17 @@
+{
+  "id": "One-Arm_Overhead_Kettlebell_Squats",
+  "force": "push",
+  "level": "expert",
+  "mechanic": "compound",
+  "equipment": "kettlebells",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "glutes",
+    "hamstrings",
+    "shoulders"
+  ],
+  "category": "strength"
+}

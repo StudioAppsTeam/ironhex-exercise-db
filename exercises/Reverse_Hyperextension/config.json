@@ -1,0 +1,15 @@
+{
+  "id": "Reverse_Hyperextension",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": null,
+  "equipment": "machine",
+  "primaryMuscles": [
+    "hamstrings"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "glutes"
+  ],
+  "category": "strength"
+}

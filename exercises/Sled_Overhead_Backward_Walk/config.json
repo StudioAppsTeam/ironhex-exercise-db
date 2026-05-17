@@ -1,0 +1,16 @@
+{
+  "id": "Sled_Overhead_Backward_Walk",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "other",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "middle back",
+    "quadriceps"
+  ],
+  "category": "strength"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "Machine_Preacher_Curls",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "machine",
+  "primaryMuscles": [
+    "biceps"
+  ],
+  "secondaryMuscles": [],
+  "category": "strength"
+}

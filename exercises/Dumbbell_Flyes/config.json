@@ -1,0 +1,12 @@
+{
+  "id": "Dumbbell_Flyes",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "dumbbell",
+  "primaryMuscles": [
+    "chest"
+  ],
+  "secondaryMuscles": [],
+  "category": "strength"
+}

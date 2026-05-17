@@ -1,0 +1,14 @@
+{
+  "id": "Behind_Head_Chest_Stretch",
+  "force": "static",
+  "level": "expert",
+  "mechanic": "isolation",
+  "equipment": "other",
+  "primaryMuscles": [
+    "chest"
+  ],
+  "secondaryMuscles": [
+    "shoulders"
+  ],
+  "category": "stretching"
+}

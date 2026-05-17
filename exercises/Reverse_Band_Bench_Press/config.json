@@ -1,0 +1,18 @@
+{
+  "id": "Reverse_Band_Bench_Press",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "triceps"
+  ],
+  "secondaryMuscles": [
+    "chest",
+    "forearms",
+    "lats",
+    "middle back",
+    "shoulders"
+  ],
+  "category": "powerlifting"
+}

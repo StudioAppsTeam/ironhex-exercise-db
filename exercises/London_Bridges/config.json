@@ -1,0 +1,16 @@
+{
+  "id": "London_Bridges",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "other",
+  "primaryMuscles": [
+    "lats"
+  ],
+  "secondaryMuscles": [
+    "biceps",
+    "forearms",
+    "middle back"
+  ],
+  "category": "strength"
+}

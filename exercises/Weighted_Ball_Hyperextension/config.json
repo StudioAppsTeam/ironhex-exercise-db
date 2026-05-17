@@ -1,0 +1,16 @@
+{
+  "id": "Weighted_Ball_Hyperextension",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "exercise ball",
+  "primaryMuscles": [
+    "lower back"
+  ],
+  "secondaryMuscles": [
+    "glutes",
+    "hamstrings",
+    "middle back"
+  ],
+  "category": "strength"
+}

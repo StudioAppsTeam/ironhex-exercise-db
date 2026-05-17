@@ -1,0 +1,18 @@
+{
+  "id": "Jefferson_Squats",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "glutes",
+    "hamstrings",
+    "lower back",
+    "traps"
+  ],
+  "category": "strength"
+}

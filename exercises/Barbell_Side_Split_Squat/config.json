@@ -1,0 +1,16 @@
+{
+  "id": "Barbell_Side_Split_Squat",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "hamstrings",
+    "lower back"
+  ],
+  "category": "strength"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "Shoulder_Circles",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": null,
+  "equipment": null,
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "traps"
+  ],
+  "category": "stretching"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "One-Arm_High-Pulley_Cable_Side_Bends",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "cable",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [],
+  "category": "strength"
+}

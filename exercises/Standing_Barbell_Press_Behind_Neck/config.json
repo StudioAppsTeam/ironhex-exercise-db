@@ -1,0 +1,14 @@
+{
+  "id": "Standing_Barbell_Press_Behind_Neck",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "triceps"
+  ],
+  "category": "strength"
+}

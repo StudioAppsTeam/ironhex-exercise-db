@@ -1,0 +1,14 @@
+{
+  "id": "All_Fours_Quad_Stretch",
+  "force": "static",
+  "level": "intermediate",
+  "mechanic": null,
+  "equipment": "body only",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "quadriceps"
+  ],
+  "category": "stretching"
+}

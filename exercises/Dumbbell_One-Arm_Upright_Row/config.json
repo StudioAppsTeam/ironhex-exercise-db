@@ -1,0 +1,15 @@
+{
+  "id": "Dumbbell_One-Arm_Upright_Row",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "dumbbell",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "biceps",
+    "traps"
+  ],
+  "category": "strength"
+}

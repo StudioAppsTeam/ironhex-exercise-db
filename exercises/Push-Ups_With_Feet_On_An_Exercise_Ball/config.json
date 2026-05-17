@@ -1,0 +1,15 @@
+{
+  "id": "Push-Ups_With_Feet_On_An_Exercise_Ball",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "exercise ball",
+  "primaryMuscles": [
+    "chest"
+  ],
+  "secondaryMuscles": [
+    "shoulders",
+    "triceps"
+  ],
+  "category": "strength"
+}

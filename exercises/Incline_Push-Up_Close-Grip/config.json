@@ -1,0 +1,15 @@
+{
+  "id": "Incline_Push-Up_Close-Grip",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "triceps"
+  ],
+  "secondaryMuscles": [
+    "chest",
+    "shoulders"
+  ],
+  "category": "strength"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "Lying_Cambered_Barbell_Row",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "middle back"
+  ],
+  "secondaryMuscles": [
+    "biceps",
+    "lats",
+    "traps"
+  ],
+  "category": "strength"
+}

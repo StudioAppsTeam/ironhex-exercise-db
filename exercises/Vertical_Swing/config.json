@@ -1,0 +1,16 @@
+{
+  "id": "Vertical_Swing",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "dumbbell",
+  "primaryMuscles": [
+    "hamstrings"
+  ],
+  "secondaryMuscles": [
+    "glutes",
+    "quadriceps",
+    "shoulders"
+  ],
+  "category": "plyometrics"
+}

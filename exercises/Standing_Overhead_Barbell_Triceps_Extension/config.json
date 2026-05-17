@@ -1,0 +1,14 @@
+{
+  "id": "Standing_Overhead_Barbell_Triceps_Extension",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "triceps"
+  ],
+  "secondaryMuscles": [
+    "shoulders"
+  ],
+  "category": "strength"
+}

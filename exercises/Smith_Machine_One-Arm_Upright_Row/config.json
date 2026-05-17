@@ -1,0 +1,15 @@
+{
+  "id": "Smith_Machine_One-Arm_Upright_Row",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "machine",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "biceps",
+    "traps"
+  ],
+  "category": "strength"
+}

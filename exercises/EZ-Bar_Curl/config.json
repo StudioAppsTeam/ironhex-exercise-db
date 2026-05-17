@@ -1,0 +1,12 @@
+{
+  "id": "EZ-Bar_Curl",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "e-z curl bar",
+  "primaryMuscles": [
+    "biceps"
+  ],
+  "secondaryMuscles": [],
+  "category": "strength"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "Kneeling_Squat",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "glutes"
+  ],
+  "secondaryMuscles": [
+    "abdominals",
+    "hamstrings",
+    "lower back"
+  ],
+  "category": "powerlifting"
+}

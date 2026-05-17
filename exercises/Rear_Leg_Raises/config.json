@@ -1,0 +1,12 @@
+{
+  "id": "Rear_Leg_Raises",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": null,
+  "equipment": "body only",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [],
+  "category": "stretching"
+}

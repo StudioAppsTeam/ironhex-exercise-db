@@ -1,0 +1,20 @@
+{
+  "id": "Double_Kettlebell_Alternating_Hang_Clean",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "kettlebells",
+  "primaryMuscles": [
+    "hamstrings"
+  ],
+  "secondaryMuscles": [
+    "biceps",
+    "calves",
+    "forearms",
+    "glutes",
+    "lower back",
+    "quadriceps",
+    "traps"
+  ],
+  "category": "strength"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "Chest_Stretch_on_Stability_Ball",
+  "force": "static",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "exercise ball",
+  "primaryMuscles": [
+    "chest"
+  ],
+  "secondaryMuscles": [],
+  "category": "stretching"
+}

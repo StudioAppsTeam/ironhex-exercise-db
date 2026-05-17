@@ -1,0 +1,12 @@
+{
+  "id": "Lying_Close-Grip_Bar_Curl_On_High_Pulley",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "cable",
+  "primaryMuscles": [
+    "biceps"
+  ],
+  "secondaryMuscles": [],
+  "category": "strength"
+}

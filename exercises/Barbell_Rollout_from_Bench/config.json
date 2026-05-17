@@ -1,0 +1,17 @@
+{
+  "id": "Barbell_Rollout_from_Bench",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [
+    "glutes",
+    "hamstrings",
+    "lats",
+    "shoulders"
+  ],
+  "category": "strength"
+}

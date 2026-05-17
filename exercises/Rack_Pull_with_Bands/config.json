@@ -1,0 +1,18 @@
+{
+  "id": "Rack_Pull_with_Bands",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "lower back"
+  ],
+  "secondaryMuscles": [
+    "forearms",
+    "glutes",
+    "hamstrings",
+    "quadriceps",
+    "traps"
+  ],
+  "category": "powerlifting"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "Back_Flyes_-_With_Bands",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "bands",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "middle back",
+    "triceps"
+  ],
+  "category": "strength"
+}

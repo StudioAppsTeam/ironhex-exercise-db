@@ -1,0 +1,12 @@
+{
+  "id": "Groiners",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "adductors"
+  ],
+  "secondaryMuscles": [],
+  "category": "stretching"
+}

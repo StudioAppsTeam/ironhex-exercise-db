@@ -1,0 +1,15 @@
+{
+  "id": "Cable_Rope_Rear-Delt_Rows",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "cable",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "biceps",
+    "middle back"
+  ],
+  "category": "strength"
+}

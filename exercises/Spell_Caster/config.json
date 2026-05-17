@@ -1,0 +1,15 @@
+{
+  "id": "Spell_Caster",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "dumbbell",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [
+    "glutes",
+    "shoulders"
+  ],
+  "category": "strength"
+}

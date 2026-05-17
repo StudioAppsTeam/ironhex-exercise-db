@@ -1,0 +1,16 @@
+{
+  "id": "One_Arm_Chin-Up",
+  "force": "pull",
+  "level": "expert",
+  "mechanic": "compound",
+  "equipment": "other",
+  "primaryMuscles": [
+    "middle back"
+  ],
+  "secondaryMuscles": [
+    "biceps",
+    "forearms",
+    "lats"
+  ],
+  "category": "strength"
+}

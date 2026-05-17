@@ -1,0 +1,12 @@
+{
+  "id": "One-Arm_Flat_Bench_Dumbbell_Flye",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "dumbbell",
+  "primaryMuscles": [
+    "chest"
+  ],
+  "secondaryMuscles": [],
+  "category": "strength"
+}

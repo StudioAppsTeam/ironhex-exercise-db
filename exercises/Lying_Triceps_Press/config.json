@@ -1,0 +1,12 @@
+{
+  "id": "Lying_Triceps_Press",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "isolation",
+  "equipment": "e-z curl bar",
+  "primaryMuscles": [
+    "triceps"
+  ],
+  "secondaryMuscles": [],
+  "category": "strength"
+}

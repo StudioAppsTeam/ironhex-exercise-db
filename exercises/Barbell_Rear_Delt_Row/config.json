@@ -1,0 +1,16 @@
+{
+  "id": "Barbell_Rear_Delt_Row",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "biceps",
+    "lats",
+    "middle back"
+  ],
+  "category": "strength"
+}

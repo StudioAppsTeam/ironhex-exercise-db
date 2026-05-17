@@ -1,0 +1,18 @@
+{
+  "id": "Pin_Presses",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "triceps"
+  ],
+  "secondaryMuscles": [
+    "chest",
+    "forearms",
+    "lats",
+    "middle back",
+    "shoulders"
+  ],
+  "category": "powerlifting"
+}

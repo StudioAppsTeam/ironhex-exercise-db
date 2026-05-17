@@ -1,0 +1,14 @@
+{
+  "id": "Upper_Back_Stretch",
+  "force": "static",
+  "level": "beginner",
+  "mechanic": null,
+  "equipment": null,
+  "primaryMuscles": [
+    "middle back"
+  ],
+  "secondaryMuscles": [
+    "middle back"
+  ],
+  "category": "stretching"
+}

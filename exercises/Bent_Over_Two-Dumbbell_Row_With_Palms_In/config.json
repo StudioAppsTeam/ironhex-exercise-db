@@ -1,0 +1,15 @@
+{
+  "id": "Bent_Over_Two-Dumbbell_Row_With_Palms_In",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "dumbbell",
+  "primaryMuscles": [
+    "middle back"
+  ],
+  "secondaryMuscles": [
+    "biceps",
+    "lats"
+  ],
+  "category": "strength"
+}

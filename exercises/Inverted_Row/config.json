@@ -1,0 +1,14 @@
+{
+  "id": "Inverted_Row",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": null,
+  "primaryMuscles": [
+    "middle back"
+  ],
+  "secondaryMuscles": [
+    "lats"
+  ],
+  "category": "strength"
+}

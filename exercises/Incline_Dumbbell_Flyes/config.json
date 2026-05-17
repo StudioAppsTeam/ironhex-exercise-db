@@ -1,0 +1,14 @@
+{
+  "id": "Incline_Dumbbell_Flyes",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "dumbbell",
+  "primaryMuscles": [
+    "chest"
+  ],
+  "secondaryMuscles": [
+    "shoulders"
+  ],
+  "category": "strength"
+}

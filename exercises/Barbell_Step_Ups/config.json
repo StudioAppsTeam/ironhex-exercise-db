@@ -1,0 +1,17 @@
+{
+  "id": "Barbell_Step_Ups",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "glutes",
+    "hamstrings",
+    "quadriceps"
+  ],
+  "category": "strength"
+}

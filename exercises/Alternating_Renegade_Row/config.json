@@ -1,0 +1,18 @@
+{
+  "id": "Alternating_Renegade_Row",
+  "force": "pull",
+  "level": "expert",
+  "mechanic": "compound",
+  "equipment": "kettlebells",
+  "primaryMuscles": [
+    "middle back"
+  ],
+  "secondaryMuscles": [
+    "abdominals",
+    "biceps",
+    "chest",
+    "lats",
+    "triceps"
+  ],
+  "category": "strength"
+}

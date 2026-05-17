@@ -1,0 +1,14 @@
+{
+  "id": "Dynamic_Chest_Stretch",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": null,
+  "equipment": null,
+  "primaryMuscles": [
+    "chest"
+  ],
+  "secondaryMuscles": [
+    "middle back"
+  ],
+  "category": "stretching"
+}

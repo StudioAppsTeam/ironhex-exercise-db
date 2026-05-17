@@ -1,0 +1,16 @@
+{
+  "id": "Wide_Stance_Stiff_Legs",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "hamstrings"
+  ],
+  "secondaryMuscles": [
+    "adductors",
+    "glutes",
+    "lower back"
+  ],
+  "category": "olympic weightlifting"
+}

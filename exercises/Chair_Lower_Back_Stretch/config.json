@@ -1,0 +1,14 @@
+{
+  "id": "Chair_Lower_Back_Stretch",
+  "force": "static",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": null,
+  "primaryMuscles": [
+    "lats"
+  ],
+  "secondaryMuscles": [
+    "lower back"
+  ],
+  "category": "stretching"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "Scapular_Pull-Up",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": null,
+  "primaryMuscles": [
+    "traps"
+  ],
+  "secondaryMuscles": [
+    "lats",
+    "middle back"
+  ],
+  "category": "strength"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "Gorilla_Chin_Crunch",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [
+    "biceps",
+    "lats"
+  ],
+  "category": "strength"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "Standing_Low-Pulley_One-Arm_Triceps_Extension",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "isolation",
+  "equipment": "cable",
+  "primaryMuscles": [
+    "triceps"
+  ],
+  "secondaryMuscles": [
+    "chest",
+    "shoulders"
+  ],
+  "category": "strength"
+}

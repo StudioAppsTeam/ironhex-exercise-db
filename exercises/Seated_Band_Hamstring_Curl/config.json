@@ -1,0 +1,12 @@
+{
+  "id": "Seated_Band_Hamstring_Curl",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "other",
+  "primaryMuscles": [
+    "hamstrings"
+  ],
+  "secondaryMuscles": [],
+  "category": "strength"
+}

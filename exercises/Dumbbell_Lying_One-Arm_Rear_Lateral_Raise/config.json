@@ -1,0 +1,14 @@
+{
+  "id": "Dumbbell_Lying_One-Arm_Rear_Lateral_Raise",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "isolation",
+  "equipment": "dumbbell",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "middle back"
+  ],
+  "category": "strength"
+}

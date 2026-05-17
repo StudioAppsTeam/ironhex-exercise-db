@@ -1,0 +1,18 @@
+{
+  "id": "Front_Cone_Hops_or_hurdle_hops",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "other",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "abductors",
+    "adductors",
+    "calves",
+    "glutes",
+    "hamstrings"
+  ],
+  "category": "plyometrics"
+}

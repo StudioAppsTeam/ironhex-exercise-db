@@ -1,0 +1,12 @@
+{
+  "id": "Lying_Crossover",
+  "force": "static",
+  "level": "expert",
+  "mechanic": null,
+  "equipment": "body only",
+  "primaryMuscles": [
+    "abductors"
+  ],
+  "secondaryMuscles": [],
+  "category": "stretching"
+}

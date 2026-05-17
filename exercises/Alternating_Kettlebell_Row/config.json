@@ -1,0 +1,15 @@
+{
+  "id": "Alternating_Kettlebell_Row",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "isolation",
+  "equipment": "kettlebells",
+  "primaryMuscles": [
+    "middle back"
+  ],
+  "secondaryMuscles": [
+    "biceps",
+    "lats"
+  ],
+  "category": "strength"
+}

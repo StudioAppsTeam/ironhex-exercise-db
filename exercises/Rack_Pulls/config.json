@@ -1,0 +1,17 @@
+{
+  "id": "Rack_Pulls",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "lower back"
+  ],
+  "secondaryMuscles": [
+    "forearms",
+    "glutes",
+    "hamstrings",
+    "traps"
+  ],
+  "category": "powerlifting"
+}

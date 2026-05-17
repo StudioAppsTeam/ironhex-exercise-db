@@ -1,0 +1,16 @@
+{
+  "id": "Medicine_Ball_Scoop_Throw",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "medicine ball",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "abdominals",
+    "hamstrings",
+    "quadriceps"
+  ],
+  "category": "plyometrics"
+}

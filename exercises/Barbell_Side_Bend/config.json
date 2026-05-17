@@ -1,0 +1,14 @@
+{
+  "id": "Barbell_Side_Bend",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [
+    "lower back"
+  ],
+  "category": "strength"
+}

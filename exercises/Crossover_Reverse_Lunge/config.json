@@ -1,0 +1,18 @@
+{
+  "id": "Crossover_Reverse_Lunge",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": null,
+  "equipment": null,
+  "primaryMuscles": [
+    "lower back"
+  ],
+  "secondaryMuscles": [
+    "abdominals",
+    "abductors",
+    "glutes",
+    "hamstrings",
+    "quadriceps"
+  ],
+  "category": "stretching"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "Hyperextensions_With_No_Hyperextension_Bench",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "lower back"
+  ],
+  "secondaryMuscles": [
+    "glutes",
+    "hamstrings"
+  ],
+  "category": "strength"
+}

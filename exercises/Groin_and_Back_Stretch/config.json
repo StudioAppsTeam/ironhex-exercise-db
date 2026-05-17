@@ -1,0 +1,12 @@
+{
+  "id": "Groin_and_Back_Stretch",
+  "force": "static",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": null,
+  "primaryMuscles": [
+    "adductors"
+  ],
+  "secondaryMuscles": [],
+  "category": "stretching"
+}

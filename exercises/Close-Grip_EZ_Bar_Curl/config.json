@@ -1,0 +1,14 @@
+{
+  "id": "Close-Grip_EZ_Bar_Curl",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "biceps"
+  ],
+  "secondaryMuscles": [
+    "forearms"
+  ],
+  "category": "strength"
+}

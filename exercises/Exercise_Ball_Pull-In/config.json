@@ -1,0 +1,12 @@
+{
+  "id": "Exercise_Ball_Pull-In",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "exercise ball",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [],
+  "category": "strength"
+}

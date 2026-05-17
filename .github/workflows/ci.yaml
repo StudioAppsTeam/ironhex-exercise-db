@@ -26,6 +26,10 @@ jobs:
         uses: actions/checkout@v4
       - name: Install linting dependencies
         run: make install
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
       - name: Lint JSON to ensure it conforms with schema
         run: make lint
       - name: Ensure dist/exercises.json is up to date
@@ -33,6 +37,26 @@ jobs:
           mv dist/exercises{,.original}.json
           make dist/exercises.json
           diff -q dist/exercises{,.original}.json
+      - name: Validate dist/exercises-en.json can be generated
+        run: |
+          node scripts/build-locale.js en
+          node -e "
+            const f = JSON.parse(require('fs').readFileSync('dist/exercises-en.json','utf8'));
+            if (!f.enums || !f.exercises || f.exercises.length === 0) process.exit(1);
+            const ex = f.exercises[0];
+            if (!Array.isArray(ex.images_male) || !Array.isArray(ex.images_female)) process.exit(1);
+            console.log('exercises-en.json OK — exercises:', f.exercises.length);
+          "
+      - name: Validate dist/exercises-es.json can be generated
+        run: |
+          node scripts/build-locale.js es
+          node -e "
+            const f = JSON.parse(require('fs').readFileSync('dist/exercises-es.json','utf8'));
+            if (!f.enums || !f.exercises || f.exercises.length === 0) process.exit(1);
+            const ex = f.exercises[0];
+            if (!Array.isArray(ex.images_male) || !Array.isArray(ex.images_female)) process.exit(1);
+            console.log('exercises-es.json OK — exercises:', f.exercises.length);
+          "
   test:
     runs-on: ubuntu-22.04
     steps:

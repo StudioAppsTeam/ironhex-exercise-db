@@ -1,0 +1,20 @@
+{
+  "id": "Reverse_Band_Box_Squat",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "abductors",
+    "adductors",
+    "calves",
+    "forearms",
+    "glutes",
+    "hamstrings",
+    "lower back"
+  ],
+  "category": "powerlifting"
+}

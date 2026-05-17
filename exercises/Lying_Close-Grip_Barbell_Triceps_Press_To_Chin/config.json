@@ -1,0 +1,12 @@
+{
+  "id": "Lying_Close-Grip_Barbell_Triceps_Press_To_Chin",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "isolation",
+  "equipment": "e-z curl bar",
+  "primaryMuscles": [
+    "triceps"
+  ],
+  "secondaryMuscles": [],
+  "category": "strength"
+}

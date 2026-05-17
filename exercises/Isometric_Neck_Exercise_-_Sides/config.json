@@ -1,0 +1,12 @@
+{
+  "id": "Isometric_Neck_Exercise_-_Sides",
+  "force": "static",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "neck"
+  ],
+  "secondaryMuscles": [],
+  "category": "strength"
+}

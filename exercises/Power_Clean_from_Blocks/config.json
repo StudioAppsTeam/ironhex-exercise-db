@@ -1,0 +1,14 @@
+{
+  "id": "Power_Clean_from_Blocks",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "hamstrings"
+  ],
+  "secondaryMuscles": [
+    "quadriceps"
+  ],
+  "category": "olympic weightlifting"
+}

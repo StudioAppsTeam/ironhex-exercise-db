@@ -1,0 +1,20 @@
+{
+  "id": "Conans_Wheel",
+  "force": null,
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "other",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "abdominals",
+    "biceps",
+    "calves",
+    "forearms",
+    "lower back",
+    "shoulders",
+    "traps"
+  ],
+  "category": "strongman"
+}

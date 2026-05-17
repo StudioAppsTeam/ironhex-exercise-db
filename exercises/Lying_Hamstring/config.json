@@ -1,0 +1,14 @@
+{
+  "id": "Lying_Hamstring",
+  "force": "static",
+  "level": "expert",
+  "mechanic": null,
+  "equipment": "other",
+  "primaryMuscles": [
+    "hamstrings"
+  ],
+  "secondaryMuscles": [
+    "calves"
+  ],
+  "category": "stretching"
+}

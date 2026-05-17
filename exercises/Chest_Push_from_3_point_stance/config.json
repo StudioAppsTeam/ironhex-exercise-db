@@ -1,0 +1,16 @@
+{
+  "id": "Chest_Push_from_3_point_stance",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "medicine ball",
+  "primaryMuscles": [
+    "chest"
+  ],
+  "secondaryMuscles": [
+    "abdominals",
+    "shoulders",
+    "triceps"
+  ],
+  "category": "plyometrics"
+}

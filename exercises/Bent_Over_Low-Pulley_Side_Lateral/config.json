@@ -1,0 +1,16 @@
+{
+  "id": "Bent_Over_Low-Pulley_Side_Lateral",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "cable",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "lower back",
+    "middle back",
+    "traps"
+  ],
+  "category": "strength"
+}

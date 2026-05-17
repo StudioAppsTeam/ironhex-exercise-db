@@ -1,0 +1,18 @@
+{
+  "id": "Kettlebell_Turkish_Get-Up_Squat_style",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "kettlebells",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "abdominals",
+    "calves",
+    "hamstrings",
+    "quadriceps",
+    "triceps"
+  ],
+  "category": "strength"
+}

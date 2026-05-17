@@ -1,0 +1,15 @@
+{
+  "id": "Downward_Facing_Balance",
+  "force": "static",
+  "level": "intermediate",
+  "mechanic": "isolation",
+  "equipment": "exercise ball",
+  "primaryMuscles": [
+    "glutes"
+  ],
+  "secondaryMuscles": [
+    "abdominals",
+    "hamstrings"
+  ],
+  "category": "strength"
+}

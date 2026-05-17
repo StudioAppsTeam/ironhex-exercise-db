@@ -1,0 +1,12 @@
+{
+  "id": "Wrist_Rotations_with_Straight_Bar",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "forearms"
+  ],
+  "secondaryMuscles": [],
+  "category": "strength"
+}

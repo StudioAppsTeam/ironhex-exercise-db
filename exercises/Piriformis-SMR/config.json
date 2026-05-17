@@ -1,0 +1,12 @@
+{
+  "id": "Piriformis-SMR",
+  "force": "static",
+  "level": "intermediate",
+  "mechanic": "isolation",
+  "equipment": "foam roll",
+  "primaryMuscles": [
+    "glutes"
+  ],
+  "secondaryMuscles": [],
+  "category": "stretching"
+}

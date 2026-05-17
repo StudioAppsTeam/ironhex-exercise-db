@@ -1,0 +1,12 @@
+{
+  "id": "Wrist_Circles",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "forearms"
+  ],
+  "secondaryMuscles": [],
+  "category": "stretching"
+}

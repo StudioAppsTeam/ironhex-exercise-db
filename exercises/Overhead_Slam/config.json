@@ -1,0 +1,12 @@
+{
+  "id": "Overhead_Slam",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "medicine ball",
+  "primaryMuscles": [
+    "lats"
+  ],
+  "secondaryMuscles": [],
+  "category": "plyometrics"
+}

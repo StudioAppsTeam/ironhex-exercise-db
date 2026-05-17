@@ -1,0 +1,14 @@
+{
+  "id": "Seated_Front_Deltoid",
+  "force": "static",
+  "level": "expert",
+  "mechanic": null,
+  "equipment": "body only",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "chest"
+  ],
+  "category": "stretching"
+}

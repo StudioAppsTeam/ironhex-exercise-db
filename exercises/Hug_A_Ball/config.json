@@ -1,0 +1,15 @@
+{
+  "id": "Hug_A_Ball",
+  "force": "static",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "exercise ball",
+  "primaryMuscles": [
+    "lower back"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "glutes"
+  ],
+  "category": "stretching"
+}

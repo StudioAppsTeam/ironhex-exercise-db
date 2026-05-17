@@ -1,0 +1,16 @@
+{
+  "id": "Bench_Press_with_Chains",
+  "force": "push",
+  "level": "expert",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "triceps"
+  ],
+  "secondaryMuscles": [
+    "chest",
+    "lats",
+    "shoulders"
+  ],
+  "category": "powerlifting"
+}

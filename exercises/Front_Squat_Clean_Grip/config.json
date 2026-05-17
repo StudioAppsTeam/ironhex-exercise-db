@@ -1,0 +1,16 @@
+{
+  "id": "Front_Squat_Clean_Grip",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "abdominals",
+    "glutes",
+    "hamstrings"
+  ],
+  "category": "strength"
+}

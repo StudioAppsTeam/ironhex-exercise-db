@@ -1,0 +1,15 @@
+{
+  "id": "Hip_Lift_with_Band",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "bands",
+  "primaryMuscles": [
+    "glutes"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "hamstrings"
+  ],
+  "category": "powerlifting"
+}

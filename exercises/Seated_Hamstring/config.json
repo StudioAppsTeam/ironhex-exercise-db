@@ -1,0 +1,14 @@
+{
+  "id": "Seated_Hamstring",
+  "force": "static",
+  "level": "expert",
+  "mechanic": null,
+  "equipment": null,
+  "primaryMuscles": [
+    "hamstrings"
+  ],
+  "secondaryMuscles": [
+    "calves"
+  ],
+  "category": "stretching"
+}

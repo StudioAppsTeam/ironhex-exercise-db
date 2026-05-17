@@ -1,0 +1,12 @@
+{
+  "id": "Cable_Incline_Pushdown",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "cable",
+  "primaryMuscles": [
+    "lats"
+  ],
+  "secondaryMuscles": [],
+  "category": "strength"
+}

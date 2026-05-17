@@ -1,0 +1,15 @@
+{
+  "id": "Standing_Two-Arm_Overhead_Throw",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "medicine ball",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "chest",
+    "lats"
+  ],
+  "category": "plyometrics"
+}

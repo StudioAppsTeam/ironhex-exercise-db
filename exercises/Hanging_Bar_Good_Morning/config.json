@@ -1,0 +1,16 @@
+{
+  "id": "Hanging_Bar_Good_Morning",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "hamstrings"
+  ],
+  "secondaryMuscles": [
+    "abdominals",
+    "glutes",
+    "lower back"
+  ],
+  "category": "powerlifting"
+}

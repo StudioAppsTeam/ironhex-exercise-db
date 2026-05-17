@@ -1,0 +1,16 @@
+{
+  "id": "Full_Range-Of-Motion_Lat_Pulldown",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "cable",
+  "primaryMuscles": [
+    "lats"
+  ],
+  "secondaryMuscles": [
+    "biceps",
+    "middle back",
+    "shoulders"
+  ],
+  "category": "strength"
+}

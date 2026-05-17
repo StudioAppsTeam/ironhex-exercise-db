@@ -1,0 +1,16 @@
+{
+  "id": "Trail_Running_Walking",
+  "force": null,
+  "level": "beginner",
+  "mechanic": null,
+  "equipment": null,
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "glutes",
+    "hamstrings"
+  ],
+  "category": "cardio"
+}

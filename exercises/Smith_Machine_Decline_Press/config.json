@@ -1,0 +1,15 @@
+{
+  "id": "Smith_Machine_Decline_Press",
+  "force": null,
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "machine",
+  "primaryMuscles": [
+    "chest"
+  ],
+  "secondaryMuscles": [
+    "shoulders",
+    "triceps"
+  ],
+  "category": "strength"
+}

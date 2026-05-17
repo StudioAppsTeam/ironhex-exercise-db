@@ -1,0 +1,14 @@
+{
+  "id": "Side_Lying_Groin_Stretch",
+  "force": "static",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": null,
+  "primaryMuscles": [
+    "adductors"
+  ],
+  "secondaryMuscles": [
+    "hamstrings"
+  ],
+  "category": "stretching"
+}

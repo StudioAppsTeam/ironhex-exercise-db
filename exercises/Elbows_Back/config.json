@@ -1,0 +1,14 @@
+{
+  "id": "Elbows_Back",
+  "force": "static",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": null,
+  "primaryMuscles": [
+    "chest"
+  ],
+  "secondaryMuscles": [
+    "shoulders"
+  ],
+  "category": "stretching"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "Landmine_Linear_Jammer",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "abdominals",
+    "calves",
+    "chest",
+    "hamstrings",
+    "quadriceps",
+    "triceps"
+  ],
+  "category": "strength"
+}

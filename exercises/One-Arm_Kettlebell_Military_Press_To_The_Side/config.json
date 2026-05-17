@@ -1,0 +1,14 @@
+{
+  "id": "One-Arm_Kettlebell_Military_Press_To_The_Side",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "kettlebells",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "triceps"
+  ],
+  "category": "strength"
+}

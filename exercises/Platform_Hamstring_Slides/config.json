@@ -1,0 +1,14 @@
+{
+  "id": "Platform_Hamstring_Slides",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "other",
+  "primaryMuscles": [
+    "hamstrings"
+  ],
+  "secondaryMuscles": [
+    "glutes"
+  ],
+  "category": "strength"
+}

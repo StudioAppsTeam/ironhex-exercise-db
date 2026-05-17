@@ -1,0 +1,18 @@
+{
+  "id": "Prowler_Sprint",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "other",
+  "primaryMuscles": [
+    "hamstrings"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "chest",
+    "glutes",
+    "quadriceps",
+    "shoulders"
+  ],
+  "category": "cardio"
+}

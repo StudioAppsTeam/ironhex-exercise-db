@@ -1,0 +1,12 @@
+{
+  "id": "Standing_Elevated_Quad_Stretch",
+  "force": "static",
+  "level": "beginner",
+  "mechanic": null,
+  "equipment": "other",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [],
+  "category": "stretching"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "Side-Lying_Floor_Stretch",
+  "force": "static",
+  "level": "beginner",
+  "mechanic": null,
+  "equipment": null,
+  "primaryMuscles": [
+    "lats"
+  ],
+  "secondaryMuscles": [],
+  "category": "stretching"
+}

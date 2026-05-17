@@ -1,0 +1,12 @@
+{
+  "id": "Seated_Calf_Raise",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "machine",
+  "primaryMuscles": [
+    "calves"
+  ],
+  "secondaryMuscles": [],
+  "category": "strength"
+}

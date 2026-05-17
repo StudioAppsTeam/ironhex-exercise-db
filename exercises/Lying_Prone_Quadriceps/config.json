@@ -1,0 +1,12 @@
+{
+  "id": "Lying_Prone_Quadriceps",
+  "force": null,
+  "level": "expert",
+  "mechanic": null,
+  "equipment": "body only",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [],
+  "category": "stretching"
+}

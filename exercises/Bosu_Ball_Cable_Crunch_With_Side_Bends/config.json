@@ -1,0 +1,12 @@
+{
+  "id": "Bosu_Ball_Cable_Crunch_With_Side_Bends",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "cable",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [],
+  "category": "strength"
+}

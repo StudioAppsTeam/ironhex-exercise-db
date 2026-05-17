@@ -1,0 +1,14 @@
+{
+  "id": "Seated_Glute",
+  "force": "static",
+  "level": "expert",
+  "mechanic": null,
+  "equipment": "body only",
+  "primaryMuscles": [
+    "glutes"
+  ],
+  "secondaryMuscles": [
+    "adductors"
+  ],
+  "category": "stretching"
+}

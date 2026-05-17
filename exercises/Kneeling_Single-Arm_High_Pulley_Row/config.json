@@ -1,0 +1,15 @@
+{
+  "id": "Kneeling_Single-Arm_High_Pulley_Row",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "cable",
+  "primaryMuscles": [
+    "lats"
+  ],
+  "secondaryMuscles": [
+    "biceps",
+    "middle back"
+  ],
+  "category": "strength"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "Chair_Upper_Body_Stretch",
+  "force": "static",
+  "level": "beginner",
+  "mechanic": null,
+  "equipment": "other",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "biceps",
+    "chest"
+  ],
+  "category": "stretching"
+}

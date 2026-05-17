@@ -1,0 +1,14 @@
+{
+  "id": "Side_Laterals_to_Front_Raise",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "dumbbell",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "traps"
+  ],
+  "category": "strength"
+}

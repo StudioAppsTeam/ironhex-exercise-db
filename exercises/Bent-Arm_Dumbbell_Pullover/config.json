@@ -1,0 +1,16 @@
+{
+  "id": "Bent-Arm_Dumbbell_Pullover",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "dumbbell",
+  "primaryMuscles": [
+    "chest"
+  ],
+  "secondaryMuscles": [
+    "lats",
+    "shoulders",
+    "triceps"
+  ],
+  "category": "strength"
+}

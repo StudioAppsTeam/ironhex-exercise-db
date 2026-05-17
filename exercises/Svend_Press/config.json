@@ -1,0 +1,16 @@
+{
+  "id": "Svend_Press",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "other",
+  "primaryMuscles": [
+    "chest"
+  ],
+  "secondaryMuscles": [
+    "forearms",
+    "shoulders",
+    "triceps"
+  ],
+  "category": "strength"
+}

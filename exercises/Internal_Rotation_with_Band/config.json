@@ -1,0 +1,12 @@
+{
+  "id": "Internal_Rotation_with_Band",
+  "force": null,
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "bands",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [],
+  "category": "strength"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "Glute_Ham_Raise",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "machine",
+  "primaryMuscles": [
+    "hamstrings"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "glutes"
+  ],
+  "category": "powerlifting"
+}

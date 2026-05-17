@@ -1,0 +1,12 @@
+{
+  "id": "Seated_One-Arm_Dumbbell_Palms-Down_Wrist_Curl",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "isolation",
+  "equipment": "dumbbell",
+  "primaryMuscles": [
+    "forearms"
+  ],
+  "secondaryMuscles": [],
+  "category": "strength"
+}

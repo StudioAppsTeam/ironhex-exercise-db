@@ -1,0 +1,17 @@
+{
+  "id": "Romanian_Deadlift_from_Deficit",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "hamstrings"
+  ],
+  "secondaryMuscles": [
+    "forearms",
+    "glutes",
+    "lower back",
+    "traps"
+  ],
+  "category": "olympic weightlifting"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "Front_Raise_And_Pullover",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "chest"
+  ],
+  "secondaryMuscles": [
+    "lats",
+    "shoulders",
+    "triceps"
+  ],
+  "category": "strength"
+}

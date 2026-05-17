@@ -1,0 +1,12 @@
+{
+  "id": "Seated_Palms-Down_Barbell_Wrist_Curl",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "forearms"
+  ],
+  "secondaryMuscles": [],
+  "category": "strength"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "EZ-Bar_Skullcrusher",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "e-z curl bar",
+  "primaryMuscles": [
+    "triceps"
+  ],
+  "secondaryMuscles": [
+    "forearms"
+  ],
+  "category": "strength"
+}

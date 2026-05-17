@@ -1,0 +1,12 @@
+{
+  "id": "Tricep_Dumbbell_Kickback",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "dumbbell",
+  "primaryMuscles": [
+    "triceps"
+  ],
+  "secondaryMuscles": [],
+  "category": "strength"
+}

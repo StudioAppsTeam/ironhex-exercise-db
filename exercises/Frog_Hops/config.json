@@ -1,0 +1,16 @@
+{
+  "id": "Frog_Hops",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": null,
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "glutes",
+    "hamstrings"
+  ],
+  "category": "stretching"
+}

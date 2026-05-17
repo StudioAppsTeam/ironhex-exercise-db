@@ -1,0 +1,12 @@
+{
+  "id": "Cable_Shrugs",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "cable",
+  "primaryMuscles": [
+    "traps"
+  ],
+  "secondaryMuscles": [],
+  "category": "strength"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "Band_External_Rotation_90_Abduction",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "bands",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "traps"
+  ],
+  "category": "strength"
+}

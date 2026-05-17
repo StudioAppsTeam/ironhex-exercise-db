@@ -1,0 +1,12 @@
+{
+  "id": "Palms-Up_Barbell_Wrist_Curl_Over_A_Bench",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "forearms"
+  ],
+  "secondaryMuscles": [],
+  "category": "strength"
+}

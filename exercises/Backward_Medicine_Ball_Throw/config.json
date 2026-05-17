@@ -1,0 +1,12 @@
+{
+  "id": "Backward_Medicine_Ball_Throw",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "medicine ball",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [],
+  "category": "plyometrics"
+}

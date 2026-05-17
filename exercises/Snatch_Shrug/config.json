@@ -1,0 +1,15 @@
+{
+  "id": "Snatch_Shrug",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "traps"
+  ],
+  "secondaryMuscles": [
+    "forearms",
+    "shoulders"
+  ],
+  "category": "olympic weightlifting"
+}

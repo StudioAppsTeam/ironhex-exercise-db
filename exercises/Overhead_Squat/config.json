@@ -1,0 +1,20 @@
+{
+  "id": "Overhead_Squat",
+  "force": "push",
+  "level": "expert",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "abdominals",
+    "calves",
+    "glutes",
+    "hamstrings",
+    "lower back",
+    "shoulders",
+    "triceps"
+  ],
+  "category": "olympic weightlifting"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "Calf_Raise_On_A_Dumbbell",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "isolation",
+  "equipment": "dumbbell",
+  "primaryMuscles": [
+    "calves"
+  ],
+  "secondaryMuscles": [],
+  "category": "strength"
+}

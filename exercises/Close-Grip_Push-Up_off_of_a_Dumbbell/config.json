@@ -1,0 +1,16 @@
+{
+  "id": "Close-Grip_Push-Up_off_of_a_Dumbbell",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "triceps"
+  ],
+  "secondaryMuscles": [
+    "abdominals",
+    "chest",
+    "shoulders"
+  ],
+  "category": "strength"
+}

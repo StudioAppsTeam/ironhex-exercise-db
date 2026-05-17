@@ -1,0 +1,16 @@
+{
+  "id": "Heavy_Bag_Thrust",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "other",
+  "primaryMuscles": [
+    "chest"
+  ],
+  "secondaryMuscles": [
+    "abdominals",
+    "shoulders",
+    "triceps"
+  ],
+  "category": "plyometrics"
+}

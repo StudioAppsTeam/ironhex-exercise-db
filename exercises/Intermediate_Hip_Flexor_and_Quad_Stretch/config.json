@@ -1,0 +1,12 @@
+{
+  "id": "Intermediate_Hip_Flexor_and_Quad_Stretch",
+  "force": "static",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "other",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [],
+  "category": "stretching"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "Windmills",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": null,
+  "equipment": null,
+  "primaryMuscles": [
+    "abductors"
+  ],
+  "secondaryMuscles": [
+    "glutes",
+    "hamstrings",
+    "lower back"
+  ],
+  "category": "stretching"
+}

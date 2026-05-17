@@ -1,0 +1,16 @@
+{
+  "id": "Band_Assisted_Pull-Up",
+  "force": null,
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "other",
+  "primaryMuscles": [
+    "lats"
+  ],
+  "secondaryMuscles": [
+    "abdominals",
+    "forearms",
+    "middle back"
+  ],
+  "category": "strength"
+}

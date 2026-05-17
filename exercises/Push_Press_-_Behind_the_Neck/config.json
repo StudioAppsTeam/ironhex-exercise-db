@@ -1,0 +1,16 @@
+{
+  "id": "Push_Press_-_Behind_the_Neck",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "quadriceps",
+    "triceps"
+  ],
+  "category": "olympic weightlifting"
+}

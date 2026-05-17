@@ -1,0 +1,17 @@
+{
+  "id": "Overhead_Stretch",
+  "force": "static",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": null,
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [
+    "chest",
+    "forearms",
+    "lats",
+    "triceps"
+  ],
+  "category": "stretching"
+}

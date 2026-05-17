@@ -1,0 +1,14 @@
+{
+  "id": "Standing_Pelvic_Tilt",
+  "force": "static",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": null,
+  "primaryMuscles": [
+    "lower back"
+  ],
+  "secondaryMuscles": [
+    "glutes"
+  ],
+  "category": "stretching"
+}

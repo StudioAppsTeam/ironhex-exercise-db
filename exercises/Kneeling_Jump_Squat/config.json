@@ -1,0 +1,16 @@
+{
+  "id": "Kneeling_Jump_Squat",
+  "force": "push",
+  "level": "expert",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "glutes"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "hamstrings",
+    "quadriceps"
+  ],
+  "category": "olympic weightlifting"
+}

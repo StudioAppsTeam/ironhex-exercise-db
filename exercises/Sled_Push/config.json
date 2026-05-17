@@ -1,0 +1,18 @@
+{
+  "id": "Sled_Push",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "other",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "chest",
+    "glutes",
+    "hamstrings",
+    "triceps"
+  ],
+  "category": "strongman"
+}

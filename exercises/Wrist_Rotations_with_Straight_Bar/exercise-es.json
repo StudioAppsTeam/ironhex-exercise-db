@@ -1,0 +1,9 @@
+{
+  "name": "Rotaciones de muñeca con barra recta",
+  "name_en": "Wrist Rotations with Straight Bar",
+  "instructions": [
+    "Sujeta una barra con ambas manos con las palmas hacia abajo y las manos a la anchura de los hombros. Esta es tu posición inicial.",
+    "Alternando entre cada mano, extiende la muñeca como si fueras a enrollar un periódico. Continúa alternando hasta el fallo.",
+    "Invierte el movimiento flexionando la muñeca, rodando en la dirección contraria. Continúa alternando hasta el fallo."
+  ]
+}

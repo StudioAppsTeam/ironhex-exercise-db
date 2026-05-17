@@ -1,0 +1,12 @@
+{
+  "id": "Calf-Machine_Shoulder_Shrug",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "machine",
+  "primaryMuscles": [
+    "traps"
+  ],
+  "secondaryMuscles": [],
+  "category": "strength"
+}

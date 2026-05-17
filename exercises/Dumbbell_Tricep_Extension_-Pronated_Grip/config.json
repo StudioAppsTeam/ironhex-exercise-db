@@ -1,0 +1,12 @@
+{
+  "id": "Dumbbell_Tricep_Extension_-Pronated_Grip",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "dumbbell",
+  "primaryMuscles": [
+    "triceps"
+  ],
+  "secondaryMuscles": [],
+  "category": "strength"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "Stomach_Vacuum",
+  "force": "static",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [],
+  "category": "stretching"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "Band_Good_Morning_Pull_Through",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "bands",
+  "primaryMuscles": [
+    "hamstrings"
+  ],
+  "secondaryMuscles": [
+    "glutes",
+    "lower back"
+  ],
+  "category": "powerlifting"
+}

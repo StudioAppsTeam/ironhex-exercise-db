@@ -1,0 +1,12 @@
+{
+  "id": "Cable_Iron_Cross",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "cable",
+  "primaryMuscles": [
+    "chest"
+  ],
+  "secondaryMuscles": [],
+  "category": "strength"
+}

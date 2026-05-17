@@ -1,0 +1,12 @@
+{
+  "id": "Cable_Hip_Adduction",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "cable",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [],
+  "category": "strength"
+}

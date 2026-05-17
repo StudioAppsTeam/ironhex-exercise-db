@@ -1,0 +1,12 @@
+{
+  "id": "Single-Arm_Cable_Crossover",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "cable",
+  "primaryMuscles": [
+    "chest"
+  ],
+  "secondaryMuscles": [],
+  "category": "strength"
+}

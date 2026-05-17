@@ -1,0 +1,12 @@
+{
+  "id": "Iliotibial_Tract-SMR",
+  "force": "static",
+  "level": "intermediate",
+  "mechanic": "isolation",
+  "equipment": "foam roll",
+  "primaryMuscles": [
+    "abductors"
+  ],
+  "secondaryMuscles": [],
+  "category": "stretching"
+}

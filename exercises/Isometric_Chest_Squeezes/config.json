@@ -1,0 +1,15 @@
+{
+  "id": "Isometric_Chest_Squeezes",
+  "force": "static",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "chest"
+  ],
+  "secondaryMuscles": [
+    "shoulders",
+    "triceps"
+  ],
+  "category": "plyometrics"
+}

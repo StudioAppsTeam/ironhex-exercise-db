@@ -1,0 +1,17 @@
+{
+  "id": "One-Arm_Kettlebell_Split_Jerk",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "kettlebells",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "glutes",
+    "hamstrings",
+    "quadriceps",
+    "triceps"
+  ],
+  "category": "strength"
+}

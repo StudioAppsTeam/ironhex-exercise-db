@@ -1,0 +1,12 @@
+{
+  "id": "Barbell_Curls_Lying_Against_An_Incline",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "biceps"
+  ],
+  "secondaryMuscles": [],
+  "category": "strength"
+}

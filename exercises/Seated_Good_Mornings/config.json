@@ -1,0 +1,14 @@
+{
+  "id": "Seated_Good_Mornings",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "lower back"
+  ],
+  "secondaryMuscles": [
+    "glutes"
+  ],
+  "category": "powerlifting"
+}

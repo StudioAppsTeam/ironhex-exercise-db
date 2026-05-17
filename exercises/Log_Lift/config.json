@@ -1,0 +1,22 @@
+{
+  "id": "Log_Lift",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "other",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "abdominals",
+    "chest",
+    "glutes",
+    "hamstrings",
+    "lower back",
+    "middle back",
+    "quadriceps",
+    "traps",
+    "triceps"
+  ],
+  "category": "strongman"
+}

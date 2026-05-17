@@ -1,0 +1,20 @@
+{
+  "id": "Clean_and_Jerk",
+  "force": "push",
+  "level": "expert",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "abdominals",
+    "glutes",
+    "hamstrings",
+    "lower back",
+    "quadriceps",
+    "traps",
+    "triceps"
+  ],
+  "category": "olympic weightlifting"
+}

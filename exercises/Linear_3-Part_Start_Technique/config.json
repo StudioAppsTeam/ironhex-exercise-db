@@ -1,0 +1,15 @@
+{
+  "id": "Linear_3-Part_Start_Technique",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": null,
+  "primaryMuscles": [
+    "hamstrings"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "quadriceps"
+  ],
+  "category": "plyometrics"
+}

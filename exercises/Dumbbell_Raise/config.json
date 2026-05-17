@@ -1,0 +1,14 @@
+{
+  "id": "Dumbbell_Raise",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "dumbbell",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "biceps"
+  ],
+  "category": "strength"
+}

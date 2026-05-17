@@ -1,0 +1,12 @@
+{
+  "id": "Decline_Dumbbell_Flyes",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "dumbbell",
+  "primaryMuscles": [
+    "chest"
+  ],
+  "secondaryMuscles": [],
+  "category": "strength"
+}

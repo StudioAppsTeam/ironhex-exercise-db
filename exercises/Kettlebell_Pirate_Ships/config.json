@@ -1,0 +1,14 @@
+{
+  "id": "Kettlebell_Pirate_Ships",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "kettlebells",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "abdominals"
+  ],
+  "category": "strength"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "Leverage_High_Row",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "machine",
+  "primaryMuscles": [
+    "middle back"
+  ],
+  "secondaryMuscles": [
+    "lats"
+  ],
+  "category": "strength"
+}

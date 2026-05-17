@@ -1,0 +1,14 @@
+{
+  "id": "Standing_Bent-Over_One-Arm_Dumbbell_Triceps_Extension",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "dumbbell",
+  "primaryMuscles": [
+    "triceps"
+  ],
+  "secondaryMuscles": [
+    "shoulders"
+  ],
+  "category": "strength"
+}

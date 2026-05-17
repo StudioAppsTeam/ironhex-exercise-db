@@ -1,0 +1,15 @@
+{
+  "id": "Incline_Push-Up_Depth_Jump",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "other",
+  "primaryMuscles": [
+    "chest"
+  ],
+  "secondaryMuscles": [
+    "shoulders",
+    "triceps"
+  ],
+  "category": "plyometrics"
+}

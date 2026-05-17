@@ -1,0 +1,14 @@
+{
+  "id": "90_90_Hamstring",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": null,
+  "equipment": "body only",
+  "primaryMuscles": [
+    "hamstrings"
+  ],
+  "secondaryMuscles": [
+    "calves"
+  ],
+  "category": "stretching"
+}

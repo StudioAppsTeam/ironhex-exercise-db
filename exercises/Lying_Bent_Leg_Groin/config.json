@@ -1,0 +1,12 @@
+{
+  "id": "Lying_Bent_Leg_Groin",
+  "force": "static",
+  "level": "expert",
+  "mechanic": null,
+  "equipment": "other",
+  "primaryMuscles": [
+    "adductors"
+  ],
+  "secondaryMuscles": [],
+  "category": "stretching"
+}

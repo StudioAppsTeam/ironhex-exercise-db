@@ -1,0 +1,16 @@
+{
+  "id": "Landmine_180s",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [
+    "glutes",
+    "lower back",
+    "shoulders"
+  ],
+  "category": "strength"
+}

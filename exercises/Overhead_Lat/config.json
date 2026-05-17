@@ -1,0 +1,14 @@
+{
+  "id": "Overhead_Lat",
+  "force": "static",
+  "level": "expert",
+  "mechanic": null,
+  "equipment": "other",
+  "primaryMuscles": [
+    "lats"
+  ],
+  "secondaryMuscles": [
+    "triceps"
+  ],
+  "category": "stretching"
+}

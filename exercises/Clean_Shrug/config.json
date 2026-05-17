@@ -1,0 +1,15 @@
+{
+  "id": "Clean_Shrug",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "traps"
+  ],
+  "secondaryMuscles": [
+    "forearms",
+    "shoulders"
+  ],
+  "category": "olympic weightlifting"
+}

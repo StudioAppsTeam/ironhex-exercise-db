@@ -1,0 +1,14 @@
+{
+  "id": "Rhomboids-SMR",
+  "force": "static",
+  "level": "intermediate",
+  "mechanic": null,
+  "equipment": "foam roll",
+  "primaryMuscles": [
+    "middle back"
+  ],
+  "secondaryMuscles": [
+    "traps"
+  ],
+  "category": "stretching"
+}

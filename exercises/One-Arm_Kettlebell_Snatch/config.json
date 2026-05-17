@@ -1,0 +1,19 @@
+{
+  "id": "One-Arm_Kettlebell_Snatch",
+  "force": "pull",
+  "level": "expert",
+  "mechanic": "compound",
+  "equipment": "kettlebells",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "glutes",
+    "hamstrings",
+    "lower back",
+    "traps",
+    "triceps"
+  ],
+  "category": "strength"
+}

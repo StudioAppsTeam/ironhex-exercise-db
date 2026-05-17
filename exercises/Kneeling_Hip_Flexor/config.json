@@ -1,0 +1,14 @@
+{
+  "id": "Kneeling_Hip_Flexor",
+  "force": "static",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": null,
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "quadriceps"
+  ],
+  "category": "stretching"
+}

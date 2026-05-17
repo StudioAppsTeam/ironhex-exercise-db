@@ -1,0 +1,15 @@
+{
+  "id": "Moving_Claw_Series",
+  "force": null,
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": null,
+  "primaryMuscles": [
+    "hamstrings"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "quadriceps"
+  ],
+  "category": "plyometrics"
+}

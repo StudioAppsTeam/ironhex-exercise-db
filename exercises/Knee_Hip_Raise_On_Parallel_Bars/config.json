@@ -1,0 +1,12 @@
+{
+  "id": "Knee_Hip_Raise_On_Parallel_Bars",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "other",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [],
+  "category": "strength"
+}

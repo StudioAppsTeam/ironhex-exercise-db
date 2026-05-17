@@ -1,0 +1,12 @@
+{
+  "id": "Leg-Up_Hamstring_Stretch",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": null,
+  "primaryMuscles": [
+    "hamstrings"
+  ],
+  "secondaryMuscles": [],
+  "category": "stretching"
+}

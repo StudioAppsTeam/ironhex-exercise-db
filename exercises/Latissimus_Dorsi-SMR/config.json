@@ -1,0 +1,12 @@
+{
+  "id": "Latissimus_Dorsi-SMR",
+  "force": "static",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "foam roll",
+  "primaryMuscles": [
+    "lats"
+  ],
+  "secondaryMuscles": [],
+  "category": "stretching"
+}

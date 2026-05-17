@@ -1,0 +1,15 @@
+{
+  "id": "Jerk_Dip_Squat",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "abdominals",
+    "calves"
+  ],
+  "category": "olympic weightlifting"
+}

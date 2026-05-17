@@ -1,0 +1,16 @@
+{
+  "id": "Anti-Gravity_Press",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "middle back",
+    "traps",
+    "triceps"
+  ],
+  "category": "strength"
+}

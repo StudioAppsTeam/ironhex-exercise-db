@@ -1,0 +1,15 @@
+{
+  "id": "One-Arm_Medicine_Ball_Slam",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "medicine ball",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [
+    "lats",
+    "shoulders"
+  ],
+  "category": "strength"
+}

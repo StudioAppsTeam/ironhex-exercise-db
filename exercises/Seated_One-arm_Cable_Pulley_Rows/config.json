@@ -1,0 +1,16 @@
+{
+  "id": "Seated_One-arm_Cable_Pulley_Rows",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "cable",
+  "primaryMuscles": [
+    "middle back"
+  ],
+  "secondaryMuscles": [
+    "biceps",
+    "lats",
+    "traps"
+  ],
+  "category": "strength"
+}

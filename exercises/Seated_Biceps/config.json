@@ -1,0 +1,15 @@
+{
+  "id": "Seated_Biceps",
+  "force": "static",
+  "level": "expert",
+  "mechanic": "isolation",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "biceps"
+  ],
+  "secondaryMuscles": [
+    "chest",
+    "shoulders"
+  ],
+  "category": "stretching"
+}

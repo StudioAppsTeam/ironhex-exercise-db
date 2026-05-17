@@ -1,0 +1,18 @@
+{
+  "id": "Snatch_Pull",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "hamstrings"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "glutes",
+    "lower back",
+    "quadriceps",
+    "traps"
+  ],
+  "category": "strength"
+}

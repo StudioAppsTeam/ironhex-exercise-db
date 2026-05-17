@@ -1,0 +1,14 @@
+{
+  "id": "Chin_To_Chest_Stretch",
+  "force": "static",
+  "level": "beginner",
+  "mechanic": null,
+  "equipment": null,
+  "primaryMuscles": [
+    "neck"
+  ],
+  "secondaryMuscles": [
+    "traps"
+  ],
+  "category": "stretching"
+}

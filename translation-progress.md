@@ -1,0 +1,910 @@
+# Translation Progress — exercises-es.json
+
+## Context (for new sessions)
+
+Goal: translate all 874 exercises from English to Spanish.
+Each exercise folder gets an `exercise-es.json` with:
+- `name`: Spanish name (e.g. "Sentadilla", "Peso muerto", "Dominada")
+- `name_en`: original English name kept for cross-language search
+- `instructions`: translated to Spanish, using **tuteo** ("coloca tus pies", not "coloque")
+
+Rules:
+- Use proper Spanish fitness terminology: "sentadilla", "peso muerto", "dominada", "flexión", "press de banca", "mancuerna", "barra", "polea", "banco"
+- Equipment brand names stay in English: Smith Machine, TRX, EZ-Bar (but "barra EZ" is also fine)
+- Tuteo throughout: "coloca", "dobla", "mantén", "sube", "baja"
+- Do NOT translate literally word-for-word — use natural Spanish gym language
+
+Format of `exercise-es.json`:
+```json
+{
+  "name": "Sentadilla",
+  "name_en": "Squat",
+  "instructions": [
+    "Coloca los pies...",
+    "..."
+  ]
+}
+```
+
+## Batch size: ~25 exercises per session turn
+
+## Progress: 874 / 874 ✅ COMPLETADO
+
+---
+
+## Exercises
+
+- [x] 3_4_Sit-Up → Crunch 3/4
+- [x] 90_90_Hamstring → Isquiotibiales 90/90
+- [x] Ab_Crunch_Machine → Crunch en máquina
+- [x] Ab_Roller → Rueda abdominal
+- [x] Adductor → Aductor (foam roller)
+- [x] Adductor_Groin → Estiramiento de aductores con compañero
+- [x] Advanced_Kettlebell_Windmill → Molino con kettlebell avanzado
+- [x] Air_Bike → Crunch bicicleta
+- [x] All_Fours_Quad_Stretch → Estiramiento de cuádriceps a cuatro patas
+- [x] Alternate_Hammer_Curl → Curl martillo alterno
+- [x] Alternate_Heel_Touchers → Toques de talones alternos
+- [x] Alternate_Incline_Dumbbell_Curl → Curl de mancuerna inclinado alterno
+- [x] Alternate_Leg_Diagonal_Bound → Salto diagonal alterno
+- [x] Alternating_Cable_Shoulder_Press → Press de hombros en polea alterno
+- [x] Alternating_Deltoid_Raise → Elevación de deltoides alterna
+- [x] Alternating_Floor_Press → Press en suelo alterno con kettlebell
+- [x] Alternating_Hang_Clean → Cargada en suspensión alterna con kettlebell
+- [x] Alternating_Kettlebell_Press → Press con kettlebell alterno
+- [x] Alternating_Kettlebell_Row → Remo con kettlebell alterno
+- [x] Alternating_Renegade_Row → Remo renegado alterno
+- [x] Ankle_Circles → Círculos de tobillo
+- [x] Ankle_On_The_Knee → Tobillo sobre rodilla
+- [x] Anterior_Tibialis-SMR → Tibial anterior - Foam roller
+- [x] Anti-Gravity_Press → Press antigravedad
+- [x] Arm_Circles → Círculos de brazos
+- [x] Arnold_Dumbbell_Press → Press Arnold con mancuernas
+- [x] Around_The_Worlds → Vuelta al mundo con mancuernas
+- [x] Atlas_Stones → Piedras Atlas
+- [x] Atlas_Stone_Trainer → Entrenador de piedra Atlas
+- [x] Axle_Deadlift → Peso muerto con barra gruesa
+- [x] Back_Flyes_-_With_Bands → Aperturas de espalda con bandas
+- [x] Backward_Drag → Arrastre de trineo hacia atrás
+- [x] Backward_Medicine_Ball_Throw → Lanzamiento de balón medicinal hacia atrás
+- [x] Balance_Board → Tabla de equilibrio
+- [x] Ball_Leg_Curl → Curl de isquiotibiales con balón
+- [x] Band_Assisted_Pull-Up → Dominada asistida con banda
+- [x] Band_External_Rotation_90_Abduction → Rotación externa con banda en abducción 90°
+- [x] Band_Good_Morning → Buenos días con banda
+- [x] Band_Good_Morning_Pull_Through → Buenos días con banda (pull-through)
+- [x] Band_Hip_Adductions → Aducción de cadera con banda
+- [x] Band_Pull_Apart → Separación de banda
+- [x] Band_Skull_Crusher → Rompe-cráneos con banda
+- [x] Barbell_Ab_Rollout → Rodamiento abdominal con barra
+- [x] Barbell_Ab_Rollout_-_On_Knees → Rodamiento abdominal con barra (de rodillas)
+- [x] Barbell_Bench_Press_-_Medium_Grip → Press de banca con barra agarre medio
+- [x] Barbell_Curl → Curl de bíceps con barra
+- [x] Barbell_Curls_Lying_Against_An_Incline → Curl de bíceps con barra en banco inclinado
+- [x] Barbell_Deadlift → Peso muerto con barra
+- [x] Barbell_Full_Squat → Sentadilla completa con barra
+- [x] Barbell_Glute_Bridge → Puente de glúteos con barra
+- [x] Barbell_Guillotine_Bench_Press → Press de banca guillotina con barra
+- [x] Barbell_Hack_Squat → Hack squat con barra
+- [x] Barbell_Hip_Thrust → Hip thrust con barra
+- [x] Barbell_Incline_Bench_Press_-_Medium_Grip → Press de banca inclinado con barra agarre medio
+- [x] Barbell_Incline_Shoulder_Raise → Elevación de hombros en banco inclinado con barra
+- [x] Barbell_Lunge → Zancada con barra
+- [x] Barbell_Rear_Delt_Row → Remo para deltoides posterior con barra
+- [x] Barbell_Rollout_from_Bench → Rodamiento con barra desde banco
+- [x] Barbell_Seated_Calf_Raise → Elevación de gemelos sentado con barra
+- [x] Barbell_Shoulder_Press → Press de hombros con barra
+- [x] Barbell_Shrug_Behind_The_Back → Encogimiento de hombros con barra por detrás
+- [x] Barbell_Shrug → Encogimiento de hombros con barra
+- [x] Barbell_Side_Bend → Flexión lateral con barra
+- [x] Barbell_Side_Split_Squat → Sentadilla lateral con barra
+- [x] Barbell_Squat → Sentadilla con barra
+- [x] Barbell_Squat_To_A_Bench → Sentadilla con barra hasta banco
+- [x] Barbell_Step_Ups → Step-up con barra
+- [x] Barbell_Walking_Lunge → Zancada caminando con barra
+- [x] Battling_Ropes → Cuerdas de batalla
+- [x] Bear_Crawl_Sled_Drags → Arrastre de trineo gateando
+- [x] Behind_Head_Chest_Stretch → Estiramiento de pecho detrás de la cabeza
+- [x] Bench_Dips → Fondos en banco
+- [x] Bench_Jump → Salto al banco
+- [x] Bench_Press_-_Powerlifting → Press de banca estilo powerlifting
+- [x] Bench_Press_-_With_Bands → Press de banca con bandas
+- [x] Bench_Press_with_Chains → Press de banca con cadenas
+- [x] Bench_Sprint → Sprint en banco
+- [x] Bent-Arm_Barbell_Pullover → Pullover con barra y brazos flexionados
+- [x] Bent-Arm_Dumbbell_Pullover → Pullover con mancuerna y brazos flexionados
+- [x] Bent-Knee_Hip_Raise → Elevación de cadera con rodillas flexionadas
+- [x] Bent_Over_Barbell_Row → Remo con barra inclinado
+- [x] Bent_Over_Dumbbell_Rear_Delt_Raise_With_Head_On_Bench → Elevación posterior con mancuernas inclinado con cabeza en banco
+- [x] Bent_Over_Low-Pulley_Side_Lateral → Elevación lateral en polea baja inclinado
+- [x] Bent_Over_One-Arm_Long_Bar_Row → Remo con barra larga a un brazo inclinado
+- [x] Bent_Over_Two-Arm_Long_Bar_Row → Remo con barra larga a dos brazos inclinado
+- [x] Bent_Over_Two-Dumbbell_Row → Remo con dos mancuernas inclinado
+- [x] Bent_Over_Two-Dumbbell_Row_With_Palms_In → Remo con dos mancuernas inclinado palmas hacia dentro
+- [x] Bent_Press → Press inclinado con kettlebell
+- [x] Bicycling → Ciclismo
+- [x] Bicycling_Stationary → Bicicleta estática
+- [x] Board_Press → Press de banca con tableros
+- [x] Body_Tricep_Press → Press de tríceps con peso corporal en barra
+- [x] Body-Up → Body-up
+- [x] Bodyweight_Flyes → Aperturas con peso corporal
+- [x] Bodyweight_Mid_Row → Remo medio con peso corporal
+- [x] Bodyweight_Squat → Sentadilla con peso corporal
+- [x] Bodyweight_Walking_Lunge → Zancada caminando con peso corporal
+- [x] Bosu_Ball_Cable_Crunch_With_Side_Bends → Crunch en Bosu con polea y flexiones laterales
+- [x] Bottoms-Up_Clean_From_The_Hang_Position → Cargada invertida desde posición colgante
+- [x] Bottoms_Up → Elevación de cadera con piernas al techo
+- [x] Box_Jump_Multiple_Response
+- [x] Box_Skip
+- [x] Box_Squat
+- [x] Box_Squat_with_Bands
+- [x] Box_Squat_with_Chains
+- [x] Brachialis-SMR
+- [x] Bradford_Rocky_Presses
+- [x] Butterfly
+- [x] Butt_Lift_Bridge
+- [x] Butt-Ups
+- [x] Cable_Chest_Press
+- [x] Cable_Crossover
+- [x] Cable_Crunch
+- [x] Cable_Deadlifts
+- [x] Cable_Hammer_Curls_-_Rope_Attachment
+- [x] Cable_Hip_Adduction
+- [x] Cable_Incline_Pushdown
+- [x] Cable_Incline_Triceps_Extension
+- [x] Cable_Internal_Rotation
+- [x] Cable_Iron_Cross
+- [x] Cable_Judo_Flip
+- [x] Cable_Lying_Triceps_Extension
+- [x] Cable_One_Arm_Tricep_Extension
+- [x] Cable_Preacher_Curl
+- [x] Cable_Rear_Delt_Fly
+- [x] Cable_Reverse_Crunch
+- [x] Cable_Rope_Overhead_Triceps_Extension
+- [x] Cable_Rope_Rear-Delt_Rows
+- [x] Cable_Russian_Twists
+- [x] Cable_Seated_Crunch
+- [x] Cable_Seated_Lateral_Raise
+- [x] Cable_Shoulder_Press
+- [x] Cable_Shrugs
+- [x] Cable_Wrist_Curl
+- [x] Calf-Machine_Shoulder_Shrug
+- [x] Calf_Press
+- [x] Calf_Press_On_The_Leg_Press_Machine
+- [x] Calf_Raise_On_A_Dumbbell
+- [x] Calf_Raises_-_With_Bands
+- [x] Calf_Stretch_Elbows_Against_Wall
+- [x] Calf_Stretch_Hands_Against_Wall
+- [x] Calves-SMR
+- [x] Car_Deadlift
+- [x] Car_Drivers
+- [x] Carioca_Quick_Step
+- [x] Catch_and_Overhead_Throw
+- [x] Cat_Stretch
+- [x] Chain_Handle_Extension
+- [x] Chain_Press
+- [x] Chair_Leg_Extended_Stretch
+- [x] Chair_Lower_Back_Stretch
+- [x] Chair_Squat
+- [x] Chair_Upper_Body_Stretch
+- [x] Chest_And_Front_Of_Shoulder_Stretch
+- [x] Chest_Push_from_3_point_stance
+- [x] Chest_Push_multiple_response
+- [x] Chest_Push_single_response
+- [x] Chest_Push_with_Run_Release
+- [x] Chest_Stretch_on_Stability_Ball
+- [x] Childs_Pose
+- [x] Chin_To_Chest_Stretch
+- [x] Chin-Up
+- [x] Circus_Bell
+- [x] Clean_and_Jerk
+- [x] Clean_and_Press
+- [x] Clean_Deadlift
+- [x] Clean
+- [x] Clean_from_Blocks
+- [x] Clean_Pull
+- [x] Clean_Shrug
+- [x] Clock_Push-Up
+- [x] Close-Grip_Barbell_Bench_Press
+- [x] Close-Grip_Dumbbell_Press
+- [x] Close-Grip_EZ_Bar_Curl
+- [x] Close-Grip_EZ-Bar_Curl_with_Band
+- [x] Close-Grip_EZ-Bar_Press
+- [x] Close-Grip_Front_Lat_Pulldown
+- [x] Close-Grip_Push-Up_off_of_a_Dumbbell
+- [x] Close-Grip_Standing_Barbell_Curl
+- [x] Cocoons
+- [x] Conans_Wheel
+- [x] Concentration_Curls
+- [x] Cross-Body_Crunch
+- [x] Cross_Body_Hammer_Curl
+- [x] Crossover_Reverse_Lunge
+- [x] Cross_Over_-_With_Bands
+- [x] Crucifix
+- [x] Crunches
+- [x] Crunch_-_Hands_Overhead
+- [x] Crunch_-_Legs_On_Exercise_Ball
+- [x] Cuban_Press
+- [x] Dancers_Stretch
+- [x] Dead_Bug
+- [x] Deadlift_with_Bands
+- [x] Deadlift_with_Chains
+- [x] Decline_Barbell_Bench_Press
+- [x] Decline_Close-Grip_Bench_To_Skull_Crusher
+- [x] Decline_Crunch
+- [x] Decline_Dumbbell_Bench_Press
+- [x] Decline_Dumbbell_Flyes
+- [x] Decline_Dumbbell_Triceps_Extension
+- [x] Decline_EZ_Bar_Triceps_Extension
+- [x] Decline_Oblique_Crunch
+- [x] Decline_Push-Up
+- [x] Decline_Reverse_Crunch
+- [x] Decline_Smith_Press
+- [x] Deficit_Deadlift
+- [x] Depth_Jump_Leap
+- [x] Dip_Machine
+- [x] Dips_-_Chest_Version
+- [x] Dips_-_Triceps_Version
+- [x] Donkey_Calf_Raises
+- [x] Double_Kettlebell_Alternating_Hang_Clean
+- [x] Double_Kettlebell_Jerk
+- [x] Double_Kettlebell_Push_Press
+- [x] Double_Kettlebell_Snatch
+- [x] Double_Kettlebell_Windmill
+- [x] Double_Leg_Butt_Kick
+- [x] Downward_Facing_Balance
+- [x] Drag_Curl
+- [x] Drop_Push
+- [x] Dumbbell_Alternate_Bicep_Curl
+- [x] Dumbbell_Bench_Press
+- [x] Dumbbell_Bench_Press_with_Neutral_Grip
+- [x] Dumbbell_Bicep_Curl
+- [x] Dumbbell_Clean
+- [x] Dumbbell_Floor_Press
+- [x] Dumbbell_Flyes
+- [x] Dumbbell_Incline_Row
+- [x] Dumbbell_Incline_Shoulder_Raise
+- [x] Dumbbell_Lunges
+- [x] Dumbbell_Lying_One-Arm_Rear_Lateral_Raise
+- [x] Dumbbell_Lying_Pronation
+- [x] Dumbbell_Lying_Rear_Lateral_Raise
+- [x] Dumbbell_Lying_Supination
+- [x] Dumbbell_One-Arm_Shoulder_Press
+- [x] Dumbbell_One-Arm_Triceps_Extension
+- [x] Dumbbell_One-Arm_Upright_Row
+- [x] Dumbbell_Prone_Incline_Curl
+- [x] Dumbbell_Raise
+- [x] Dumbbell_Rear_Lunge
+- [x] Dumbbell_Scaption
+- [x] Dumbbell_Seated_Box_Jump
+- [x] Dumbbell_Seated_One-Leg_Calf_Raise
+- [x] Dumbbell_Shoulder_Press
+- [x] Dumbbell_Shrug
+- [x] Dumbbell_Side_Bend
+- [x] Dumbbell_Squat
+- [x] Dumbbell_Squat_To_A_Bench
+- [x] Dumbbell_Step_Ups
+- [x] Dumbbell_Tricep_Extension_-Pronated_Grip
+- [x] Dynamic_Back_Stretch
+- [x] Dynamic_Chest_Stretch
+- [x] Elbow_Circles
+- [x] Elbows_Back
+- [x] Elbow_to_Knee
+- [x] Elevated_Back_Lunge
+- [x] Elevated_Cable_Rows
+- [x] Elliptical_Trainer
+- [x] Exercise_Ball_Crunch
+- [x] Exercise_Ball_Pull-In
+- [x] Extended_Range_One-Arm_Kettlebell_Floor_Press
+- [x] External_Rotation
+- [x] External_Rotation_with_Band
+- [x] External_Rotation_with_Cable
+- [x] EZ-Bar_Curl
+- [x] EZ-Bar_Skullcrusher
+- [x] Face_Pull
+- [x] Farmers_Walk
+- [x] Fast_Skipping
+- [x] Finger_Curls
+- [x] Flat_Bench_Cable_Flyes
+- [x] Flat_Bench_Leg_Pull-In
+- [x] Flat_Bench_Lying_Leg_Raise
+- [x] Flexor_Incline_Dumbbell_Curls
+- [x] Floor_Glute-Ham_Raise
+- [x] Floor_Press
+- [x] Floor_Press_with_Chains
+- [x] Flutter_Kicks
+- [x] Foot-SMR
+- [x] Forward_Drag_with_Press
+- [x] Frankenstein_Squat
+- [x] Freehand_Jump_Squat
+- [x] Frog_Hops
+- [x] Frog_Sit-Ups
+- [x] Front_Barbell_Squat
+- [x] Front_Barbell_Squat_To_A_Bench
+- [x] Front_Box_Jump
+- [x] Front_Cable_Raise
+- [x] Front_Cone_Hops_or_hurdle_hops
+- [x] Front_Dumbbell_Raise
+- [x] Front_Incline_Dumbbell_Raise
+- [x] Front_Leg_Raises
+- [x] Front_Plate_Raise
+- [x] Front_Raise_And_Pullover
+- [x] Front_Squat_Clean_Grip
+- [x] Front_Squats_With_Two_Kettlebells
+- [x] Front_Two-Dumbbell_Raise
+- [x] Full_Range-Of-Motion_Lat_Pulldown
+- [x] Gironda_Sternum_Chins
+- [x] Glute_Ham_Raise
+- [x] Glute_Kickback
+- [x] Goblet_Squat
+- [x] Good_Morning
+- [x] Good_Morning_off_Pins
+- [x] Gorilla_Chin_Crunch
+- [x] Groin_and_Back_Stretch
+- [x] Groiners
+- [x] Hack_Squat
+- [x] Hammer_Curls
+- [x] Hammer_Grip_Incline_DB_Bench_Press
+- [x] Hamstring-SMR
+- [x] Hamstring_Stretch
+- [x] Handstand_Push-Ups
+- [x] Hang_Clean_-_Below_the_Knees
+- [x] Hang_Clean
+- [x] Hanging_Bar_Good_Morning
+- [x] Hanging_Leg_Raise
+- [x] Hanging_Pike
+- [x] Hang_Snatch_-_Below_Knees
+- [x] Hang_Snatch
+- [x] Heaving_Snatch_Balance
+- [x] Heavy_Bag_Thrust
+- [x] High_Cable_Curls
+- [x] Hip_Circles_prone
+- [x] Hip_Extension_with_Bands
+- [x] Hip_Flexion_with_Band
+- [x] Hip_Lift_with_Band
+- [x] Hug_A_Ball
+- [x] Hug_Knees_To_Chest
+- [x] Hurdle_Hops
+- [x] Hyperextensions_Back_Extensions
+- [x] Hyperextensions_With_No_Hyperextension_Bench
+- [x] Iliotibial_Tract-SMR
+- [x] Inchworm
+- [x] Incline_Barbell_Triceps_Extension
+- [x] Incline_Bench_Pull
+- [x] Incline_Cable_Chest_Press
+- [x] Incline_Cable_Flye
+- [x] Incline_Dumbbell_Bench_With_Palms_Facing_In
+- [x] Incline_Dumbbell_Curl
+- [x] Incline_Dumbbell_Flyes
+- [x] Incline_Dumbbell_Flyes_-_With_A_Twist
+- [x] Incline_Dumbbell_Press
+- [x] Incline_Hammer_Curls
+- [x] Incline_Inner_Biceps_Curl
+- [x] Incline_Push-Up_Close-Grip
+- [x] Incline_Push-Up_Depth_Jump
+- [x] Incline_Push-Up
+- [x] Incline_Push-Up_Medium
+- [x] Incline_Push-Up_Reverse_Grip
+- [x] Incline_Push-Up_Wide
+- [x] Intermediate_Groin_Stretch
+- [x] Intermediate_Hip_Flexor_and_Quad_Stretch
+- [x] Internal_Rotation_with_Band
+- [x] Inverted_Row
+- [x] Inverted_Row_with_Straps
+- [x] Iron_Crosses_stretch
+- [x] Iron_Cross
+- [x] Isometric_Chest_Squeezes
+- [x] Isometric_Neck_Exercise_-_Front_And_Back
+- [x] Isometric_Neck_Exercise_-_Sides
+- [x] Isometric_Wipers
+- [x] IT_Band_and_Glute_Stretch
+- [x] Jackknife_Sit-Up
+- [x] Janda_Sit-Up
+- [x] Jefferson_Squats
+- [x] Jerk_Balance
+- [x] Jerk_Dip_Squat
+- [x] JM_Press
+- [x] Jogging_Treadmill
+- [x] Keg_Load
+- [x] Kettlebell_Arnold_Press
+- [x] Kettlebell_Dead_Clean
+- [x] Kettlebell_Figure_8
+- [x] Kettlebell_Hang_Clean
+- [x] Kettlebell_One-Legged_Deadlift
+- [x] Kettlebell_Pass_Between_The_Legs
+- [x] Kettlebell_Pirate_Ships
+- [x] Kettlebell_Pistol_Squat
+- [x] Kettlebell_Seated_Press
+- [x] Kettlebell_Seesaw_Press
+- [x] Kettlebell_Sumo_High_Pull
+- [x] Kettlebell_Thruster
+- [x] Kettlebell_Turkish_Get-Up_Lunge_style
+- [x] Kettlebell_Turkish_Get-Up_Squat_style
+- [x] Kettlebell_Windmill
+- [x] Kipping_Muscle_Up
+- [x] Knee_Across_The_Body
+- [x] Knee_Circles
+- [x] Knee_Hip_Raise_On_Parallel_Bars
+- [x] Kneeling_Arm_Drill
+- [x] Kneeling_Cable_Crunch_With_Alternating_Oblique_Twists
+- [x] Kneeling_Cable_Triceps_Extension
+- [x] Kneeling_Forearm_Stretch
+- [x] Kneeling_High_Pulley_Row
+- [x] Kneeling_Hip_Flexor
+- [x] Kneeling_Jump_Squat
+- [x] Kneeling_Single-Arm_High_Pulley_Row
+- [x] Kneeling_Squat
+- [x] Knee_Tuck_Jump
+- [x] Landmine_180s
+- [x] Landmine_Linear_Jammer
+- [x] Lateral_Bound
+- [x] Lateral_Box_Jump
+- [x] Lateral_Cone_Hops
+- [x] Lateral_Raise_-_With_Bands
+- [x] Latissimus_Dorsi-SMR
+- [x] Leg_Extensions
+- [x] Leg_Lift
+- [x] Leg-Over_Floor_Press
+- [x] Leg_Press
+- [x] Leg_Pull-In
+- [x] Leg-Up_Hamstring_Stretch
+- [x] Leverage_Chest_Press
+- [x] Leverage_Deadlift
+- [x] Leverage_Decline_Chest_Press
+- [x] Leverage_High_Row
+- [x] Leverage_Incline_Chest_Press
+- [x] Leverage_Iso_Row
+- [x] Leverage_Shoulder_Press
+- [x] Leverage_Shrug
+- [x] Linear_3-Part_Start_Technique
+- [x] Linear_Acceleration_Wall_Drill
+- [x] Linear_Depth_Jump
+- [x] Log_Lift
+- [x] London_Bridges
+- [x] Looking_At_Ceiling
+- [x] Low_Cable_Crossover
+- [x] Low_Cable_Triceps_Extension
+- [x] Lower_Back_Curl
+- [x] Lower_Back-SMR
+- [x] Low_Pulley_Row_To_Neck
+- [x] Lunge_Pass_Through
+- [x] Lunge_Sprint
+- [x] Lying_Bent_Leg_Groin
+- [x] Lying_Cable_Curl
+- [x] Lying_Cambered_Barbell_Row
+- [x] Lying_Close-Grip_Barbell_Triceps_Extension_Behind_The_Head
+- [x] Lying_Close-Grip_Barbell_Triceps_Press_To_Chin
+- [x] Lying_Close-Grip_Bar_Curl_On_High_Pulley
+- [x] Lying_Crossover
+- [x] Lying_Dumbbell_Tricep_Extension
+- [x] Lying_Face_Down_Plate_Neck_Resistance
+- [x] Lying_Face_Up_Plate_Neck_Resistance
+- [x] Lying_Glute
+- [x] Lying_Hamstring
+- [x] Lying_High_Bench_Barbell_Curl
+- [x] Lying_Leg_Curls
+- [x] Lying_Machine_Squat
+- [x] Lying_One-Arm_Lateral_Raise
+- [x] Lying_Prone_Quadriceps
+- [x] Lying_Rear_Delt_Raise
+- [x] Lying_Supine_Dumbbell_Curl
+- [x] Lying_T-Bar_Row
+- [x] Lying_Triceps_Press
+- [x] Machine_Bench_Press
+- [x] Machine_Bicep_Curl
+- [x] Machine_Preacher_Curls
+- [x] Machine_Shoulder_Military_Press
+- [x] Machine_Triceps_Extension
+- [x] Medicine_Ball_Chest_Pass
+- [x] Medicine_Ball_Full_Twist
+- [x] Medicine_Ball_Scoop_Throw
+- [x] Middle_Back_Shrug
+- [x] Middle_Back_Stretch
+- [x] Mixed_Grip_Chin
+- [x] Monster_Walk
+- [x] Mountain_Climbers
+- [x] Moving_Claw_Series
+- [x] Muscle_Snatch
+- [x] Muscle_Up
+- [x] Narrow_Stance_Hack_Squats
+- [x] Narrow_Stance_Leg_Press
+- [x] Narrow_Stance_Squats
+- [x] Natural_Glute_Ham_Raise
+- [x] Neck_Press
+- [x] Neck-SMR
+- [x] Oblique_Crunches
+- [x] Oblique_Crunches_-_On_The_Floor
+- [x] Olympic_Squat
+- [x] One_Arm_Against_Wall
+- [x] One_Arm_Chin-Up
+- [x] One_Arm_Dumbbell_Bench_Press
+- [x] One_Arm_Dumbbell_Preacher_Curl
+- [x] One-Arm_Dumbbell_Row
+- [x] One-Arm_Flat_Bench_Dumbbell_Flye
+- [x] One_Arm_Floor_Press
+- [x] One-Arm_High-Pulley_Cable_Side_Bends
+- [x] One-Arm_Incline_Lateral_Raise
+- [x] One-Arm_Kettlebell_Clean_and_Jerk
+- [x] One-Arm_Kettlebell_Clean
+- [x] One-Arm_Kettlebell_Floor_Press
+- [x] One-Arm_Kettlebell_Jerk
+- [x] One-Arm_Kettlebell_Military_Press_To_The_Side
+- [x] One-Arm_Kettlebell_Para_Press
+- [x] One-Arm_Kettlebell_Push_Press
+- [x] One-Arm_Kettlebell_Row
+- [x] One-Arm_Kettlebell_Snatch
+- [x] One-Arm_Kettlebell_Split_Jerk
+- [x] One-Arm_Kettlebell_Split_Snatch
+- [x] One-Arm_Kettlebell_Swings
+- [x] One_Arm_Lat_Pulldown
+- [x] One-Arm_Long_Bar_Row
+- [x] One-Arm_Medicine_Ball_Slam
+- [x] One-Arm_Open_Palm_Kettlebell_Clean
+- [x] One-Arm_Overhead_Kettlebell_Squats
+- [x] One_Arm_Pronated_Dumbbell_Triceps_Extension
+- [x] One-Arm_Side_Deadlift
+- [x] One-Arm_Side_Laterals
+- [x] One_Arm_Supinated_Dumbbell_Triceps_Extension
+- [x] One_Half_Locust
+- [x] One_Handed_Hang
+- [x] One_Knee_To_Chest
+- [x] One_Leg_Barbell_Squat
+- [x] One-Legged_Cable_Kickback
+- [x] On-Your-Back_Quad_Stretch
+- [x] On_Your_Side_Quad_Stretch
+- [x] Open_Palm_Kettlebell_Clean
+- [x] Otis-Up
+- [x] Overhead_Cable_Curl
+- [x] Overhead_Lat
+- [x] Overhead_Slam
+- [x] Overhead_Squat
+- [x] Overhead_Stretch
+- [x] Overhead_Triceps
+- [x] Pallof_Press
+- [x] Pallof_Press_With_Rotation
+- [x] Palms-Down_Dumbbell_Wrist_Curl_Over_A_Bench
+- [x] Palms-Down_Wrist_Curl_Over_A_Bench
+- [x] Palms-Up_Barbell_Wrist_Curl_Over_A_Bench
+- [x] Palms-Up_Dumbbell_Wrist_Curl_Over_A_Bench
+- [x] Parallel_Bar_Dip
+- [x] Pelvic_Tilt_Into_Bridge
+- [x] Peroneals-SMR
+- [x] Peroneals_Stretch
+- [x] Physioball_Hip_Bridge
+- [x] Pin_Presses
+- [x] Piriformis-SMR
+- [x] Plank
+- [x] Plate_Pinch
+- [x] Plate_Twist
+- [x] Platform_Hamstring_Slides
+- [x] Plie_Dumbbell_Squat
+- [x] Plyo_Kettlebell_Pushups
+- [x] Plyo_Push-up
+- [x] Posterior_Tibialis_Stretch
+- [x] Power_Clean
+- [x] Power_Clean_from_Blocks
+- [x] Power_Jerk
+- [x] Power_Partials
+- [x] Power_Snatch
+- [x] Power_Snatch_from_Blocks
+- [x] Power_Stairs
+- [x] Preacher_Curl
+- [x] Preacher_Hammer_Dumbbell_Curl
+- [x] Press_Sit-Up
+- [x] Prone_Manual_Hamstring
+- [x] Prowler_Sprint
+- [x] Pull_Through
+- [x] Pullups
+- [x] Push_Press_-_Behind_the_Neck
+- [x] Push_Press
+- [x] Pushups_Close_and_Wide_Hand_Positions
+- [x] Push-Ups_-_Close_Triceps_Position
+- [x] Pushups
+- [x] Push-Ups_With_Feet_Elevated
+- [x] Push-Ups_With_Feet_On_An_Exercise_Ball
+- [x] Push_Up_to_Side_Plank
+- [x] Push-Up_Wide
+- [x] Pyramid
+- [x] Quadriceps-SMR
+- [x] Quad_Stretch
+- [x] Quick_Leap
+- [x] Rack_Delivery
+- [x] Rack_Pulls
+- [x] Rack_Pull_with_Bands
+- [x] Rear_Leg_Raises
+- [x] Recumbent_Bike
+- [x] Return_Push_from_Stance
+- [x] Reverse_Band_Bench_Press
+- [x] Reverse_Band_Box_Squat
+- [x] Reverse_Band_Deadlift
+- [x] Reverse_Band_Power_Squat
+- [x] Reverse_Band_Sumo_Deadlift
+- [x] Reverse_Barbell_Curl
+- [x] Reverse_Barbell_Preacher_Curls
+- [x] Reverse_Cable_Curl
+- [x] Reverse_Crunch
+- [x] Reverse_Flyes
+- [x] Reverse_Flyes_With_External_Rotation
+- [x] Reverse_Grip_Bent-Over_Rows
+- [x] Reverse_Grip_Triceps_Pushdown
+- [x] Reverse_Hyperextension
+- [x] Reverse_Machine_Flyes
+- [x] Reverse_Plate_Curls
+- [x] Reverse_Triceps_Bench_Press
+- [x] Rhomboids-SMR
+- [x] Rickshaw_Carry
+- [x] Rickshaw_Deadlift
+- [x] Ring_Dips
+- [x] Rocket_Jump
+- [x] Rocking_Standing_Calf_Raise
+- [x] Rocky_Pull-Ups_Pulldowns
+- [x] Romanian_Deadlift
+- [x] Romanian_Deadlift_from_Deficit
+- [x] Rope_Climb
+- [x] Rope_Crunch
+- [x] Rope_Jumping
+- [x] Rope_Straight-Arm_Pulldown
+- [x] Round_The_World_Shoulder_Stretch
+- [x] Rowing_Stationary
+- [x] Runners_Stretch
+- [x] Running_Treadmill
+- [x] Russian_Twist
+- [x] Sandbag_Load
+- [x] Scapular_Pull-Up
+- [x] Scissor_Kick
+- [x] Scissors_Jump
+- [x] Seated_Band_Hamstring_Curl
+- [x] Seated_Barbell_Military_Press
+- [x] Seated_Barbell_Twist
+- [x] Seated_Bent-Over_One-Arm_Dumbbell_Triceps_Extension
+- [x] Seated_Bent-Over_Rear_Delt_Raise
+- [x] Seated_Bent-Over_Two-Arm_Dumbbell_Triceps_Extension
+- [x] Seated_Biceps
+- [x] Seated_Cable_Rows
+- [x] Seated_Cable_Shoulder_Press
+- [x] Seated_Calf_Raise
+- [x] Seated_Calf_Stretch
+- [x] Seated_Close-Grip_Concentration_Barbell_Curl
+- [x] Seated_Dumbbell_Curl
+- [x] Seated_Dumbbell_Inner_Biceps_Curl
+- [x] Seated_Dumbbell_Palms-Down_Wrist_Curl
+- [x] Seated_Dumbbell_Palms-Up_Wrist_Curl
+- [x] Seated_Dumbbell_Press
+- [x] Seated_Flat_Bench_Leg_Pull-In
+- [x] Seated_Floor_Hamstring_Stretch
+- [x] Seated_Front_Deltoid
+- [x] Seated_Glute
+- [x] Seated_Good_Mornings
+- [x] Seated_Hamstring_and_Calf_Stretch
+- [x] Seated_Hamstring
+- [x] Seated_Head_Harness_Neck_Resistance
+- [x] Seated_Leg_Curl
+- [x] Seated_Leg_Tucks
+- [x] Seated_One-arm_Cable_Pulley_Rows
+- [x] Seated_One-Arm_Dumbbell_Palms-Down_Wrist_Curl
+- [x] Seated_One-Arm_Dumbbell_Palms-Up_Wrist_Curl
+- [x] Seated_Overhead_Stretch
+- [x] Seated_Palms-Down_Barbell_Wrist_Curl
+- [x] Seated_Palm-Up_Barbell_Wrist_Curl
+- [x] Seated_Side_Lateral_Raise
+- [x] Seated_Triceps_Press
+- [x] Seated_Two-Arm_Palms-Up_Low-Pulley_Wrist_Curl
+- [x] See-Saw_Press_Alternating_Side_Press
+- [x] Shotgun_Row
+- [x] Shoulder_Circles
+- [x] Shoulder_Press_-_With_Bands
+- [x] Shoulder_Raise
+- [x] Shoulder_Stretch
+- [x] Side_Bridge
+- [x] Side_Hop-Sprint
+- [x] Side_Jackknife
+- [x] Side_Lateral_Raise
+- [x] Side_Laterals_to_Front_Raise
+- [x] Side_Leg_Raises
+- [x] Side-Lying_Floor_Stretch
+- [x] Side_Lying_Groin_Stretch
+- [x] Side_Neck_Stretch
+- [x] Side_Standing_Long_Jump
+- [x] Side_to_Side_Box_Shuffle
+- [x] Side_To_Side_Chins
+- [x] Side_Wrist_Pull
+- [x] Single-Arm_Cable_Crossover
+- [x] Single-Arm_Linear_Jammer
+- [x] Single-Arm_Push-Up
+- [x] Single-Cone_Sprint_Drill
+- [x] Single_Dumbbell_Raise
+- [x] Single_Leg_Butt_Kick
+- [x] Single_Leg_Glute_Bridge
+- [x] Single-Leg_High_Box_Squat
+- [x] Single-Leg_Hop_Progression
+- [x] Single-Leg_Lateral_Hop
+- [x] Single-Leg_Leg_Extension
+- [x] Single_Leg_Push-off
+- [x] Single-Leg_Stride_Jump
+- [x] Sit_Squats
+- [x] Sit-Up
+- [x] Skating
+- [x] Sled_Drag_-_Harness
+- [x] Sledgehammer_Swings
+- [x] Sled_Overhead_Backward_Walk
+- [x] Sled_Overhead_Triceps_Extension
+- [x] Sled_Push
+- [x] Sled_Reverse_Flye
+- [x] Sled_Row
+- [x] Smith_Incline_Shoulder_Raise
+- [x] Smith_Machine_Behind_the_Back_Shrug
+- [x] Smith_Machine_Bench_Press
+- [x] Smith_Machine_Bent_Over_Row
+- [x] Smith_Machine_Calf_Raise
+- [x] Smith_Machine_Close-Grip_Bench_Press
+- [x] Smith_Machine_Decline_Press
+- [x] Smith_Machine_Hang_Power_Clean
+- [x] Smith_Machine_Hip_Raise
+- [x] Smith_Machine_Incline_Bench_Press
+- [x] Smith_Machine_Leg_Press
+- [x] Smith_Machine_One-Arm_Upright_Row
+- [x] Smith_Machine_Overhead_Shoulder_Press
+- [x] Smith_Machine_Pistol_Squat
+- [x] Smith_Machine_Reverse_Calf_Raises
+- [x] Smith_Machine_Squat
+- [x] Smith_Machine_Stiff-Legged_Deadlift
+- [x] Smith_Machine_Upright_Row
+- [x] Smith_Single-Leg_Split_Squat
+- [x] Snatch_Balance
+- [x] Snatch_Deadlift
+- [x] Snatch
+- [x] Snatch_from_Blocks
+- [x] Snatch_Pull
+- [x] Snatch_Shrug
+- [x] Speed_Band_Overhead_Triceps
+- [x] Speed_Box_Squat
+- [x] Speed_Squats
+- [x] Spell_Caster
+- [x] Spider_Crawl
+- [x] Spider_Curl
+- [x] Spinal_Stretch
+- [x] Split_Clean
+- [x] Split_Jerk
+- [x] Split_Jump
+- [x] Split_Snatch
+- [x] Split_Squats
+- [x] Split_Squat_with_Dumbbells
+- [x] Squat_Jerk
+- [x] Squats_-_With_Bands
+- [x] Squat_with_Bands
+- [x] Squat_with_Chains
+- [x] Squat_with_Plate_Movers
+- [x] Stairmaster
+- [x] Standing_Alternating_Dumbbell_Press
+- [x] Standing_Barbell_Calf_Raise
+- [x] Standing_Barbell_Press_Behind_Neck
+- [x] Standing_Bent-Over_One-Arm_Dumbbell_Triceps_Extension
+- [x] Standing_Bent-Over_Two-Arm_Dumbbell_Triceps_Extension
+- [x] Standing_Biceps_Cable_Curl
+- [x] Standing_Biceps_Stretch
+- [x] Standing_Bradford_Press
+- [x] Standing_Cable_Chest_Press
+- [x] Standing_Cable_Lift
+- [x] Standing_Cable_Wood_Chop
+- [x] Standing_Calf_Raises
+- [x] Standing_Concentration_Curl
+- [x] Standing_Dumbbell_Calf_Raise
+- [x] Standing_Dumbbell_Press
+- [x] Standing_Dumbbell_Reverse_Curl
+- [x] Standing_Dumbbell_Straight-Arm_Front_Delt_Raise_Above_Head
+- [x] Standing_Dumbbell_Triceps_Extension
+- [x] Standing_Dumbbell_Upright_Row
+- [x] Standing_Elevated_Quad_Stretch
+- [x] Standing_Front_Barbell_Raise_Over_Head
+- [x] Standing_Gastrocnemius_Calf_Stretch
+- [x] Standing_Hamstring_and_Calf_Stretch
+- [x] Standing_Hip_Circles
+- [x] Standing_Hip_Flexors
+- [x] Standing_Inner-Biceps_Curl
+- [x] Standing_Lateral_Stretch
+- [x] Standing_Leg_Curl
+- [x] Standing_Long_Jump
+- [x] Standing_Low-Pulley_Deltoid_Raise
+- [x] Standing_Low-Pulley_One-Arm_Triceps_Extension
+- [x] Standing_Military_Press
+- [x] Standing_Olympic_Plate_Hand_Squeeze
+- [x] Standing_One-Arm_Cable_Curl
+- [x] Standing_One-Arm_Dumbbell_Curl_Over_Incline_Bench
+- [x] Standing_One-Arm_Dumbbell_Triceps_Extension
+- [x] Standing_Overhead_Barbell_Triceps_Extension
+- [x] Standing_Palm-In_One-Arm_Dumbbell_Press
+- [x] Standing_Palms-In_Dumbbell_Press
+- [x] Standing_Palms-Up_Barbell_Behind_The_Back_Wrist_Curl
+- [x] Standing_Pelvic_Tilt
+- [x] Standing_Rope_Crunch
+- [x] Standing_Soleus_And_Achilles_Stretch
+- [x] Standing_Toe_Touches
+- [x] Standing_Towel_Triceps_Extension
+- [x] Standing_Two-Arm_Overhead_Throw
+- [x] Star_Jump
+- [x] Step_Mill
+- [x] Step-up_with_Knee_Raise
+- [x] Stiff_Leg_Barbell_Good_Morning
+- [x] Stiff-Legged_Barbell_Deadlift
+- [x] Stiff-Legged_Dumbbell_Deadlift
+- [x] Stomach_Vacuum
+- [x] Straight-Arm_Dumbbell_Pullover
+- [x] Straight-Arm_Pulldown
+- [x] Straight_Bar_Bench_Mid_Rows
+- [x] Straight_Raises_on_Incline_Bench
+- [x] Stride_Jump_Crossover
+- [x] Sumo_Deadlift
+- [x] Sumo_Deadlift_with_Bands
+- [x] Sumo_Deadlift_with_Chains
+- [x] Superman
+- [x] Supine_Chest_Throw
+- [x] Supine_One-Arm_Overhead_Throw
+- [x] Supine_Two-Arm_Overhead_Throw
+- [x] Suspended_Fallout
+- [x] Suspended_Push-Up
+- [x] Suspended_Reverse_Crunch
+- [x] Suspended_Row
+- [x] Suspended_Split_Squat
+- [x] Svend_Press
+- [x] Tate_Press
+- [x] T-Bar_Row_with_Handle
+- [x] The_Straddle
+- [x] Thigh_Abductor
+- [x] Thigh_Adductor
+- [x] Tire_Flip
+- [x] Toe_Touchers
+- [x] Torso_Rotation
+- [x] Trail_Running_Walking
+- [x] Trap_Bar_Deadlift
+- [x] Tricep_Dumbbell_Kickback
+- [x] Tricep_Side_Stretch
+- [x] Triceps_Overhead_Extension_with_Rope
+- [x] Triceps_Pushdown
+- [x] Triceps_Pushdown_-_Rope_Attachment
+- [x] Triceps_Pushdown_-_V-Bar_Attachment
+- [x] Triceps_Stretch
+- [x] Tuck_Crunch
+- [x] Two-Arm_Dumbbell_Preacher_Curl
+- [x] Two-Arm_Kettlebell_Clean
+- [x] Two-Arm_Kettlebell_Jerk
+- [x] Two-Arm_Kettlebell_Military_Press
+- [x] Two-Arm_Kettlebell_Row
+- [x] Underhand_Cable_Pulldowns
+- [x] Upper_Back-Leg_Grab
+- [x] Upper_Back_Stretch
+- [x] Upright_Barbell_Row
+- [x] Upright_Cable_Row
+- [x] Upright_Row_-_With_Bands
+- [x] Upward_Stretch
+- [x] V-Bar_Pulldown
+- [x] V-Bar_Pullup
+- [x] Vertical_Swing
+- [x] Walking_Treadmill
+- [x] Weighted_Ball_Hyperextension
+- [x] Weighted_Ball_Side_Bend
+- [x] Weighted_Bench_Dip
+- [x] Weighted_Crunches
+- [x] Weighted_Jump_Squat
+- [x] Weighted_Pull_Ups
+- [x] Weighted_Sissy_Squat
+- [x] Weighted_Sit-Ups_-_With_Bands
+- [x] Weighted_Squat
+- [x] Wide-Grip_Barbell_Bench_Press
+- [x] Wide-Grip_Decline_Barbell_Bench_Press
+- [x] Wide-Grip_Decline_Barbell_Pullover
+- [x] Wide-Grip_Lat_Pulldown
+- [x] Wide-Grip_Pulldown_Behind_The_Neck
+- [x] Wide-Grip_Rear_Pull-Up
+- [x] Wide-Grip_Standing_Barbell_Curl
+- [x] Wide_Stance_Barbell_Squat
+- [x] Wide_Stance_Stiff_Legs
+- [x] Windmills
+- [x] Wind_Sprints
+- [x] Worlds_Greatest_Stretch
+- [x] Wrist_Circles
+- [x] Wrist_Roller
+- [x] Wrist_Rotations_with_Straight_Bar
+- [x] Yoke_Walk
+- [x] Zercher_Squats
+- [x] Zottman_Curl
+- [x] Zottman_Preacher_Curl

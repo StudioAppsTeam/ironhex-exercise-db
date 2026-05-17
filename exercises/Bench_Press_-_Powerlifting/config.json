@@ -1,0 +1,17 @@
+{
+  "id": "Bench_Press_-_Powerlifting",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "triceps"
+  ],
+  "secondaryMuscles": [
+    "chest",
+    "forearms",
+    "lats",
+    "shoulders"
+  ],
+  "category": "powerlifting"
+}

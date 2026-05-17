@@ -1,0 +1,15 @@
+{
+  "id": "Single-Arm_Linear_Jammer",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "chest",
+    "triceps"
+  ],
+  "category": "strength"
+}

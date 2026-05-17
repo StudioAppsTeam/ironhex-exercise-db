@@ -1,0 +1,18 @@
+{
+  "id": "Atlas_Stone_Trainer",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "other",
+  "primaryMuscles": [
+    "lower back"
+  ],
+  "secondaryMuscles": [
+    "biceps",
+    "forearms",
+    "glutes",
+    "hamstrings",
+    "quadriceps"
+  ],
+  "category": "strongman"
+}

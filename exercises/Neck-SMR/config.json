@@ -1,0 +1,12 @@
+{
+  "id": "Neck-SMR",
+  "force": "static",
+  "level": "intermediate",
+  "mechanic": null,
+  "equipment": "other",
+  "primaryMuscles": [
+    "neck"
+  ],
+  "secondaryMuscles": [],
+  "category": "stretching"
+}

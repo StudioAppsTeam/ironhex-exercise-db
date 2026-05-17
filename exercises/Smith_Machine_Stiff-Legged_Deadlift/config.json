@@ -1,0 +1,15 @@
+{
+  "id": "Smith_Machine_Stiff-Legged_Deadlift",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "machine",
+  "primaryMuscles": [
+    "hamstrings"
+  ],
+  "secondaryMuscles": [
+    "glutes",
+    "lower back"
+  ],
+  "category": "strength"
+}

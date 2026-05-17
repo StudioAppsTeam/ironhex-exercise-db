@@ -1,0 +1,12 @@
+{
+  "id": "Hip_Flexion_with_Band",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "bands",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [],
+  "category": "strength"
+}

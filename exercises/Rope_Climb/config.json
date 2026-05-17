@@ -1,0 +1,17 @@
+{
+  "id": "Rope_Climb",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "other",
+  "primaryMuscles": [
+    "lats"
+  ],
+  "secondaryMuscles": [
+    "biceps",
+    "forearms",
+    "middle back",
+    "shoulders"
+  ],
+  "category": "strength"
+}

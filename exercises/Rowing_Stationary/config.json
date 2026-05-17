@@ -1,0 +1,19 @@
+{
+  "id": "Rowing_Stationary",
+  "force": null,
+  "level": "intermediate",
+  "mechanic": null,
+  "equipment": "machine",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "biceps",
+    "calves",
+    "glutes",
+    "hamstrings",
+    "lower back",
+    "middle back"
+  ],
+  "category": "cardio"
+}

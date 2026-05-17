@@ -1,0 +1,17 @@
+{
+  "id": "Jerk_Balance",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "glutes",
+    "hamstrings",
+    "quadriceps",
+    "triceps"
+  ],
+  "category": "olympic weightlifting"
+}

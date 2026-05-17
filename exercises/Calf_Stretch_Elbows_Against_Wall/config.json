@@ -1,0 +1,12 @@
+{
+  "id": "Calf_Stretch_Elbows_Against_Wall",
+  "force": "static",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": null,
+  "primaryMuscles": [
+    "calves"
+  ],
+  "secondaryMuscles": [],
+  "category": "stretching"
+}

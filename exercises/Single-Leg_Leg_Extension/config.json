@@ -1,0 +1,12 @@
+{
+  "id": "Single-Leg_Leg_Extension",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "machine",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [],
+  "category": "strength"
+}

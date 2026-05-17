@@ -1,0 +1,14 @@
+{
+  "id": "Standing_Toe_Touches",
+  "force": "static",
+  "level": "beginner",
+  "mechanic": null,
+  "equipment": null,
+  "primaryMuscles": [
+    "hamstrings"
+  ],
+  "secondaryMuscles": [
+    "calves"
+  ],
+  "category": "stretching"
+}

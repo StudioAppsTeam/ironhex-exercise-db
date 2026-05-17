@@ -1,0 +1,14 @@
+{
+  "id": "Hug_Knees_To_Chest",
+  "force": "static",
+  "level": "beginner",
+  "mechanic": null,
+  "equipment": null,
+  "primaryMuscles": [
+    "lower back"
+  ],
+  "secondaryMuscles": [
+    "glutes"
+  ],
+  "category": "stretching"
+}

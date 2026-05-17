@@ -1,0 +1,14 @@
+{
+  "id": "Pyramid",
+  "force": "static",
+  "level": "beginner",
+  "mechanic": null,
+  "equipment": "exercise ball",
+  "primaryMuscles": [
+    "lower back"
+  ],
+  "secondaryMuscles": [
+    "shoulders"
+  ],
+  "category": "stretching"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Clean_from_Blocks",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "glutes",
+    "hamstrings",
+    "shoulders",
+    "traps"
+  ],
+  "category": "olympic weightlifting"
+}

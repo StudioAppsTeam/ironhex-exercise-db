@@ -1,0 +1,19 @@
+{
+  "id": "Forward_Drag_with_Press",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "other",
+  "primaryMuscles": [
+    "chest"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "glutes",
+    "hamstrings",
+    "quadriceps",
+    "shoulders",
+    "triceps"
+  ],
+  "category": "strongman"
+}

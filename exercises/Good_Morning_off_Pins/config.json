@@ -1,0 +1,16 @@
+{
+  "id": "Good_Morning_off_Pins",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "hamstrings"
+  ],
+  "secondaryMuscles": [
+    "abdominals",
+    "glutes",
+    "lower back"
+  ],
+  "category": "powerlifting"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "Lying_Glute",
+  "force": "static",
+  "level": "expert",
+  "mechanic": null,
+  "equipment": "body only",
+  "primaryMuscles": [
+    "glutes"
+  ],
+  "secondaryMuscles": [
+    "abductors"
+  ],
+  "category": "stretching"
+}

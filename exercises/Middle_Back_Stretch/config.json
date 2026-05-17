@@ -1,0 +1,16 @@
+{
+  "id": "Middle_Back_Stretch",
+  "force": "static",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": null,
+  "primaryMuscles": [
+    "middle back"
+  ],
+  "secondaryMuscles": [
+    "abdominals",
+    "lats",
+    "lower back"
+  ],
+  "category": "stretching"
+}

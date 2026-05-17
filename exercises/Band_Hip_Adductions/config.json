@@ -1,0 +1,12 @@
+{
+  "id": "Band_Hip_Adductions",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "bands",
+  "primaryMuscles": [
+    "adductors"
+  ],
+  "secondaryMuscles": [],
+  "category": "strength"
+}

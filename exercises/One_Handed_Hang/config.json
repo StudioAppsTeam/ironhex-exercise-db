@@ -1,0 +1,14 @@
+{
+  "id": "One_Handed_Hang",
+  "force": "static",
+  "level": "beginner",
+  "mechanic": null,
+  "equipment": "other",
+  "primaryMuscles": [
+    "lats"
+  ],
+  "secondaryMuscles": [
+    "biceps"
+  ],
+  "category": "stretching"
+}

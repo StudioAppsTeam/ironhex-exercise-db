@@ -1,0 +1,14 @@
+{
+  "id": "Chair_Leg_Extended_Stretch",
+  "force": "static",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "other",
+  "primaryMuscles": [
+    "hamstrings"
+  ],
+  "secondaryMuscles": [
+    "adductors"
+  ],
+  "category": "stretching"
+}

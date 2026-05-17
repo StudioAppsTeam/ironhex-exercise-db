@@ -1,0 +1,19 @@
+{
+  "id": "Carioca_Quick_Step",
+  "force": null,
+  "level": "beginner",
+  "mechanic": null,
+  "equipment": null,
+  "primaryMuscles": [
+    "adductors"
+  ],
+  "secondaryMuscles": [
+    "abdominals",
+    "abductors",
+    "calves",
+    "glutes",
+    "hamstrings",
+    "quadriceps"
+  ],
+  "category": "plyometrics"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "Weighted_Pull_Ups",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "other",
+  "primaryMuscles": [
+    "lats"
+  ],
+  "secondaryMuscles": [
+    "biceps",
+    "middle back"
+  ],
+  "category": "strength"
+}

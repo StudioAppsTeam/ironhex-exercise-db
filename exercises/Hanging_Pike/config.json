@@ -1,0 +1,12 @@
+{
+  "id": "Hanging_Pike",
+  "force": "pull",
+  "level": "expert",
+  "mechanic": "compound",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [],
+  "category": "strength"
+}

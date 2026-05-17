@@ -1,0 +1,11 @@
+{
+  "name": "Patadas de natación",
+  "name_en": "Flutter Kicks",
+  "instructions": [
+    "En un banco plano, túmbate boca abajo con las caderas en el borde, las piernas rectas con los pies elevados del suelo y los brazos sobre el banco agarrando el borde delantero.",
+    "Aprieta los glúteos e isquiotibiales y estira las piernas hasta que queden al nivel de las caderas. Esta es tu posición inicial.",
+    "Inicia el movimiento elevando la pierna izquierda más alto que la derecha.",
+    "Baja la pierna izquierda mientras elevas la derecha.",
+    "Continúa alternando de esta manera (como si hicieras una patada de natación) hasta completar las repeticiones indicadas en cada pierna. Mantén siempre un movimiento controlado. Respira con normalidad durante el ejercicio."
+  ]
+}

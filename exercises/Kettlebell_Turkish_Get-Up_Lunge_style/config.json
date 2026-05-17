@@ -1,0 +1,17 @@
+{
+  "id": "Kettlebell_Turkish_Get-Up_Lunge_style",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "kettlebells",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "abdominals",
+    "hamstrings",
+    "quadriceps",
+    "triceps"
+  ],
+  "category": "strength"
+}

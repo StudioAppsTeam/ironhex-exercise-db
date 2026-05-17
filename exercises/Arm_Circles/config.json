@@ -1,0 +1,14 @@
+{
+  "id": "Arm_Circles",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": null,
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "traps"
+  ],
+  "category": "stretching"
+}

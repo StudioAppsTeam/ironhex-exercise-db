@@ -1,0 +1,12 @@
+{
+  "id": "One_Arm_Against_Wall",
+  "force": "static",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": null,
+  "primaryMuscles": [
+    "lats"
+  ],
+  "secondaryMuscles": [],
+  "category": "stretching"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "Standing_Soleus_And_Achilles_Stretch",
+  "force": "static",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": null,
+  "primaryMuscles": [
+    "calves"
+  ],
+  "secondaryMuscles": [],
+  "category": "stretching"
+}

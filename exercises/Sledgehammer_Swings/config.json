@@ -1,0 +1,18 @@
+{
+  "id": "Sledgehammer_Swings",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "other",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "forearms",
+    "lats",
+    "middle back",
+    "shoulders"
+  ],
+  "category": "plyometrics"
+}

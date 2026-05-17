@@ -1,0 +1,18 @@
+{
+  "id": "Muscle_Snatch",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "hamstrings"
+  ],
+  "secondaryMuscles": [
+    "glutes",
+    "lower back",
+    "quadriceps",
+    "shoulders",
+    "triceps"
+  ],
+  "category": "olympic weightlifting"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "Sit_Squats",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": null,
+  "equipment": null,
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "abductors",
+    "glutes",
+    "hamstrings"
+  ],
+  "category": "stretching"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "Suspended_Fallout",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "isolation",
+  "equipment": "other",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [
+    "chest",
+    "lower back",
+    "shoulders"
+  ],
+  "category": "strength"
+}

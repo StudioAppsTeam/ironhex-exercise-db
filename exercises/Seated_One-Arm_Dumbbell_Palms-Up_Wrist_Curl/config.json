@@ -1,0 +1,12 @@
+{
+  "id": "Seated_One-Arm_Dumbbell_Palms-Up_Wrist_Curl",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "dumbbell",
+  "primaryMuscles": [
+    "forearms"
+  ],
+  "secondaryMuscles": [],
+  "category": "strength"
+}

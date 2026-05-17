@@ -1,0 +1,15 @@
+{
+  "id": "Battling_Ropes",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "other",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "chest",
+    "forearms"
+  ],
+  "category": "strength"
+}

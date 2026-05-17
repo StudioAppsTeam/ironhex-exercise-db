@@ -1,0 +1,12 @@
+{
+  "id": "Torso_Rotation",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": null,
+  "equipment": "exercise ball",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [],
+  "category": "stretching"
+}

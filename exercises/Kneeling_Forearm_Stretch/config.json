@@ -1,0 +1,12 @@
+{
+  "id": "Kneeling_Forearm_Stretch",
+  "force": "static",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": null,
+  "primaryMuscles": [
+    "forearms"
+  ],
+  "secondaryMuscles": [],
+  "category": "stretching"
+}

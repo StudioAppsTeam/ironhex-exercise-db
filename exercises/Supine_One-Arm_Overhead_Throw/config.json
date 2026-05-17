@@ -1,0 +1,16 @@
+{
+  "id": "Supine_One-Arm_Overhead_Throw",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "medicine ball",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [
+    "chest",
+    "lats",
+    "shoulders"
+  ],
+  "category": "plyometrics"
+}

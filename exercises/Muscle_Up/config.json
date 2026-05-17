@@ -1,0 +1,20 @@
+{
+  "id": "Muscle_Up",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "other",
+  "primaryMuscles": [
+    "lats"
+  ],
+  "secondaryMuscles": [
+    "abdominals",
+    "biceps",
+    "forearms",
+    "middle back",
+    "shoulders",
+    "traps",
+    "triceps"
+  ],
+  "category": "strength"
+}

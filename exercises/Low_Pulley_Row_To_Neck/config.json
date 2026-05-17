@@ -1,0 +1,16 @@
+{
+  "id": "Low_Pulley_Row_To_Neck",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "cable",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "biceps",
+    "middle back",
+    "traps"
+  ],
+  "category": "strength"
+}

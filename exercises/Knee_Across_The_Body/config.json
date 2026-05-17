@@ -1,0 +1,15 @@
+{
+  "id": "Knee_Across_The_Body",
+  "force": "static",
+  "level": "beginner",
+  "mechanic": null,
+  "equipment": null,
+  "primaryMuscles": [
+    "glutes"
+  ],
+  "secondaryMuscles": [
+    "abductors",
+    "lower back"
+  ],
+  "category": "stretching"
+}

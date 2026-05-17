@@ -1,0 +1,12 @@
+{
+  "id": "Seated_Head_Harness_Neck_Resistance",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "isolation",
+  "equipment": "other",
+  "primaryMuscles": [
+    "neck"
+  ],
+  "secondaryMuscles": [],
+  "category": "strength"
+}

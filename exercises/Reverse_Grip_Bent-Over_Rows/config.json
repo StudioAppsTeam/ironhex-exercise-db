@@ -1,0 +1,16 @@
+{
+  "id": "Reverse_Grip_Bent-Over_Rows",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "middle back"
+  ],
+  "secondaryMuscles": [
+    "biceps",
+    "lats",
+    "shoulders"
+  ],
+  "category": "strength"
+}

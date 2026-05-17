@@ -1,0 +1,15 @@
+{
+  "id": "Rack_Delivery",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "forearms",
+    "traps"
+  ],
+  "category": "olympic weightlifting"
+}
