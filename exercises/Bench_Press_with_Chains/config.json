@@ -12,5 +12,6 @@
     "lats",
     "shoulders"
   ],
-  "category": "powerlifting"
+  "category": "powerlifting",
+  "default_set_type": "reps"
 }

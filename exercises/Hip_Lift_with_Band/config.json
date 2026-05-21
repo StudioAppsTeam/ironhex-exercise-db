@@ -11,5 +11,6 @@
     "calves",
     "hamstrings"
   ],
-  "category": "powerlifting"
+  "category": "powerlifting",
+  "default_set_type": "reps"
 }

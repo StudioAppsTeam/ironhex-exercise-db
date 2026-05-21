@@ -13,5 +13,6 @@
     "hamstrings",
     "traps"
   ],
-  "category": "powerlifting"
+  "category": "powerlifting",
+  "default_set_type": "reps"
 }

@@ -11,5 +11,6 @@
     "shoulders",
     "triceps"
   ],
-  "category": "plyometrics"
+  "category": "plyometrics",
+  "default_set_type": "time"
 }

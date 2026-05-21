@@ -15,5 +15,6 @@
     "shoulders",
     "triceps"
   ],
-  "category": "strength"
+  "category": "strength",
+  "default_set_type": "reps"
 }

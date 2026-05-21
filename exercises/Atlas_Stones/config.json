@@ -19,5 +19,6 @@
     "quadriceps",
     "traps"
   ],
-  "category": "strongman"
+  "category": "strongman",
+  "default_set_type": "reps"
 }

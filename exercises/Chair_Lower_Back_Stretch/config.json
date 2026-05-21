@@ -10,5 +10,6 @@
   "secondaryMuscles": [
     "lower back"
   ],
-  "category": "stretching"
+  "category": "stretching",
+  "default_set_type": "reps"
 }

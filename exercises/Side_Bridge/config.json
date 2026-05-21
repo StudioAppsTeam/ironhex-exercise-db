@@ -10,5 +10,6 @@
   "secondaryMuscles": [
     "shoulders"
   ],
-  "category": "strength"
+  "category": "strength",
+  "default_set_type": "time"
 }

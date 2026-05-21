@@ -12,5 +12,6 @@
     "quadriceps",
     "triceps"
   ],
-  "category": "olympic weightlifting"
+  "category": "olympic weightlifting",
+  "default_set_type": "reps"
 }

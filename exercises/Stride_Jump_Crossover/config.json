@@ -13,5 +13,6 @@
     "calves",
     "hamstrings"
   ],
-  "category": "plyometrics"
+  "category": "plyometrics",
+  "default_set_type": "reps"
 }

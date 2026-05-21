@@ -12,5 +12,6 @@
     "glutes",
     "lower back"
   ],
-  "category": "powerlifting"
+  "category": "powerlifting",
+  "default_set_type": "reps"
 }

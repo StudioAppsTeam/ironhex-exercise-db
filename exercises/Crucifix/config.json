@@ -10,5 +10,6 @@
   "secondaryMuscles": [
     "forearms"
   ],
-  "category": "strongman"
+  "category": "strongman",
+  "default_set_type": "time"
 }

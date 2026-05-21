@@ -88,6 +88,7 @@ for (const folderName of exerciseFolders) {
     secondaryMuscles: config.secondaryMuscles,
     instructions: txt.instructions,
     category: config.category,
+    default_set_type: config.default_set_type === 'time' ? 'time' : 'reps',
     images_male: malePhotos,
     images_female: femalePhotos,
   };

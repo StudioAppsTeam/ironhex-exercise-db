@@ -14,5 +14,6 @@
     "quadriceps",
     "shoulders"
   ],
-  "category": "cardio"
+  "category": "cardio",
+  "default_set_type": "time"
 }
