@@ -1,5 +1,5 @@
 {
-  "version": 1779359326,
+  "version": 1779913297,
   "locale": "en",
   "enums": {
     "muscles": {
@@ -4299,7 +4299,10 @@
         "Chair_Squat/0-male.jpg",
         "Chair_Squat/1-male.jpg"
       ],
-      "images_female": []
+      "images_female": [
+        "Chair_Squat/0-female.jpg",
+        "Chair_Squat/1-female.jpg"
+      ]
     },
     {
       "id": "Chair_Upper_Body_Stretch",
