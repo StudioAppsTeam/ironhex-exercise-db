@@ -1,5 +1,5 @@
 {
-  "version": 1779913297,
+  "version": 1781902566,
   "locale": "en",
   "enums": {
     "muscles": {
@@ -14759,7 +14759,10 @@
         "Pallof_Press/0-male.jpg",
         "Pallof_Press/1-male.jpg"
       ],
-      "images_female": []
+      "images_female": [
+        "Pallof_Press/0-female.jpg",
+        "Pallof_Press/1-female.jpg"
+      ]
     },
     {
       "id": "Pallof_Press_With_Rotation",
